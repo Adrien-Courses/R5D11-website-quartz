@@ -30,8 +30,6 @@ Par conséquent réaliser une Roadmap comme un plan va vous amener à annoncer d
 > La Roadmap est utile si elle sert à définir la stratégie du produit, et non pas à lister les choses à faire
 
 ## Construire une Roadmap
-- [Scrum Life : Roadmap Agile - Comment réussir l'exercice 6:06](https://youtu.be/0_1j_Jml9Ko?t=366)
-
 Une Roadmap :
 - possède plusieurs horizons temporels (plutôt que des dates)
 - se concentre sur les objectifs et l'impact business (plutôt que des features)

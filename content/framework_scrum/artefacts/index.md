@@ -12,6 +12,6 @@ transparence des informations clés. Ils matérialisent :
 ![Artefacts Scrum](scrum_artefacts.png)
 
 Ils sont au nombre de 3 : 
-- *Product Backlog*, 
-- *Sprint Backlog* 
-- et *Incrément*
+- [Product Backlog]({{< relref "product_backlog" >}})
+- [Sprint Backlog]({{< relref "sprint_backlog" >}})
+- [Incrément]({{< relref "increment" >}})

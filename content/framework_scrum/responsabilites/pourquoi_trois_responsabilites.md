@@ -21,5 +21,5 @@ Dans le partie dédiée au *Product Owner* (chap 8), nous avons le paragraphe su
 
 > The Chief Engineer can’t simply say something has to be done a particular way. He has to persuade, cajole, and demonstrate that his way is the right way, the best way. It usually takes someone with thirty years of experience to fill the role. **I wanted that in Scrum, but I’m also well aware that very few people have that level of skill and experience. So I split the role in two, giving the Scrum Master the how and the Product Owner the what.** (p177)
 
-- Le PO est responsable (*accountable*) de traduire la productivité de l'équipe en valeur
-- Le SM est responsable (*accountable*) de guider l'équipe vers l'amélioration continue
+- Le [PO]({{< relref "product_owner" >}}) est responsable (*accountable*) de traduire la productivité de l'équipe en valeur
+- Le [SM]({{< relref "scrum_master" >}}) est responsable (*accountable*) de guider l'équipe vers l'amélioration continue

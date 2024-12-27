@@ -3,11 +3,10 @@ title = "Cycle de vie Agile"
 weight = 11
 +++
 
-{{% notice style="warning" title="Définition" icon="pen" %}}
-Le cycle de vie Agile mise sur les deux aspects des caractéristiques itératives et incrémentales
-{{% /notice %}}
+> [!definition] Définition
+> Le cycle de vie Agile mise sur les deux aspects des caractéristiques itératives et incrémentales
 
-Les cycles de vie Agile associent les approches itératives et incrémentales afin de s’adapter à des
+Les cycles de vie Agile associent les approches [itératives et incrémentales]({{< relref "cycles_de_vie" >}}) afin de s’adapter à des
 changements importants et de créer plus fréquemment de la valeur dans le projet. Elle assure ainsi au
 client une visibilité, une confiance et la maîtrise du produit.
 

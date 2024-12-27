@@ -7,10 +7,9 @@ weight = 10
 Le Lean, une philosophie de gestion originaire du Japon, s’est révélée être l’une des méthodologies les plus influentes. Le Lean repose sur des principes fondamentaux visant à éliminer les activités inutiles, à maximiser la valeur pour le client et à créer une culture d’amélioration continue. Tout comme la philosophie Agile elle recherche la performance productivité,
 qualité, délais et coût.
 
-{{% notice style="warning" title="Définition" icon="pen" %}}
-Une perte est une consommation de temps/de coût qui n’apporte aucune valeur à un
-produit ou un service.
-{{% /notice %}}
+> [!definition] Définition
+> Une perte est une consommation de temps/de coût qui n’apporte aucune valeur à un produit ou un service.
+
 
 ## Définition du Lean
 Le Lean est une :

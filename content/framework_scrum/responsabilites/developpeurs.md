@@ -3,10 +3,8 @@ title="Développeurs"
 weight=10
 +++
 
-{{% notice style="grey" title=" " icon=" " %}}
-Depuis le Scrum Guide 2020 on ne parle plus d'équipe de développement mais de développeurs
-
-{{% /notice %}}
+> [!warning] Attention
+> Depuis le Scrum Guide 2020 on ne parle plus d'équipe de développement mais de développeurs
 
 > [!danger] Définition
 >  Engagé à effectuer les tâches nécessaires pour ajouter de la valeur à chaque sprint.

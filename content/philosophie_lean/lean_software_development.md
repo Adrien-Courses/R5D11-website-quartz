@@ -56,6 +56,7 @@ Lorsqu'on parle Lean, on parle gaspillage. En informatique les principales sourc
    - quelqu'un qui aime rédiger 
 
 
-{{% notice style="grey" title=" " icon=" " %}}
-Identifiez les sources de gaspillage dans l'organisation et essayer de trouver des solutions pour les réduire et/ou les éliminer.
-{{% /notice %}}
+> [!affirmation] Affirmation
+> Identifiez les sources de gaspillage dans l'organisation et essayer de trouver des solutions pour les réduire et/ou les éliminer.
+
+

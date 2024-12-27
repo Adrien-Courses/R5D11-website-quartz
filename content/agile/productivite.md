@@ -8,11 +8,10 @@ weight = 5
 > - [Yes, you can measure software developer productivity](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity)
 
 
-On entend partout parler de productivité : on vante des méthodes pour l'améliorer, on débat des effets du télétravail sur notre efficacité ([voir ici]({{< relref "teletravail" >}})), et on affirme qu'Agile est la clé pour booster la productivité. Mais avant de plonger dans ces discussions, une question essentielle se pose : **comment définir la productivité dans un cadre Agile ?**
+On entend partout parler de productivité : on vante des méthodes pour l'améliorer, on débat des effets du [télétravail]({{< relref "teletravail" >}}) sur notre efficacité, et on affirme qu'Agile est la clé pour booster la productivité. Mais avant de plonger dans ces discussions, une question essentielle se pose : **comment définir la productivité dans un cadre Agile ?**
 
-{{% notice style="warning" title=" " icon=" " %}}
-Dans les approches agiles, on parle souvent de la valeur livrée et du feedback client, des indicateurs beaucoup plus significatifs que de simples chiffres de productivité
-{{% /notice %}}
+> [!warning] Attention
+> Dans les approches agiles, on parle souvent de la valeur livrée et du feedback client, des indicateurs beaucoup plus significatifs que de simples chiffres de productivité
 
  En Agile, la productivité ne se mesure pas simplement au nombre de lignes de code écrites ou d'heures travaillées. C'est plutôt la capacité à :
 - Créer de la valeur pour le client de manière constante

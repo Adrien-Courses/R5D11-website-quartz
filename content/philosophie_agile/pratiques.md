@@ -10,7 +10,7 @@ Il existe de nombreuses pratiques dans la mouvance Agile. La carte suivante est 
 
 ![Agile Subway Map](subway_map.png)
 
-Rappel : comme souligné dans [Mindset Agile]({{< relref "comment" >}}) les pratiques ne sont que la dernière étape lorsqu'on souhaite créer une équipe Agile.
+Rappel : comme souligné dans [Mindset Agile]({{< relref "philosophie_agile/comment/index" >}}) les pratiques ne sont que la dernière étape lorsqu'on souhaite créer une équipe Agile.
 
 > Each practice is an experiment in improving effectiveness, communication, confidence and productivity - Kent Beck XP explained
 

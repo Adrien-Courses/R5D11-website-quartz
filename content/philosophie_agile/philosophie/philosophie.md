@@ -21,9 +21,7 @@ permet de :
 
 ⇒ Tout ceci contribue à l’amélioration continue de l’équipe et donc du produit.
 
-{{% notice style="gray" title=" " icon=" " %}}
-Le client change d’avis, nous pouvons (plus facilement) l’absorber.
-{{% /notice %}}
+> Le client change d’avis, nous pouvons (plus facilement) l’absorber.
 
 ## Implication du client
 Avec l’agilité nous impliquons le client au quotidien dans le processus de création. En lui
