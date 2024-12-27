@@ -1,0 +1,92 @@
+@use "./base.scss";
+// put your custom CSS here!
+body {
+    text-align: justify;
+    overflow-wrap: break-word !important;
+    letter-spacing: 0.007em;
+    color: black !important;
+    font-style: normal;
+}
+
+.center p, ul, text, li, ol, ul, .katex, .math {
+    color: black !important;
+}
+
+.center h3 {
+    margin-bottom: -0.7rem;
+}
+
+.center {
+    font-size: 18px;
+}
+
+.center a {
+    color: #5396ed;
+    font-weight: 400;
+}
+
+.center a:hover {
+    color: rgb(30, 40, 145);
+    font-weight: 400;
+}
+
+.folder-outer a {
+    color: #565656 !important;
+    font-weight: 300 !important;
+    font-size: 16px !important;
+    font-family: " Roboto Flex", sans-serif !important;
+    font-variation-settings: "GRAD" -200, "YTFI" 710, "wdth" 118 !important;
+    letter-spacing: 0.014em;
+}
+
+.folder-outer a:hover {
+    color: #5396ed !important;
+}
+
+
+#explorer-ul > li > .folder-outer > ul > li {
+    padding-bottom: 1rem;
+  }
+
+.folder-outer {
+    border-inline-start: 1px solid rgba( 237,238,243,1 );
+}
+
+
+.folder-title-depth1 > a {
+    color: #2f2f2f !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    font-family: " Roboto Flex", sans-serif !important;
+    font-variation-settings: "GRAD" -200, "YTFI" 710, "wdth" 118 !important;
+    letter-spacing: 0.014em;
+}
+
+.callout {
+    &[data-callout="affirmation"] {
+        --color: #db8942;
+        --border: #db894244;
+        --bg: #db894210;
+        --callout-icon: var(--callout-icon-success);
+    }
+
+    &[data-callout="ressource"] {
+        --color: #09ad7a;
+        --border: #09ad7144;
+        --bg: #09ad7110;
+        --callout-icon: var(--callout-icon-abstract);
+    }
+
+    &[data-callout="definition"] {
+        --color: #db4242;
+        --border: #db424244;
+        --bg: #db424210;
+        --callout-icon: var(--callout-icon-danger);
+    }
+  }
+
+
+  .page > #quartz-body footer {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
