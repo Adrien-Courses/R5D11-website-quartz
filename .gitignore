@@ -12,3 +12,4 @@ linkmap
 /.hugo_build.lock
 content/.smart-connections
 node_modules
+node_modules/
