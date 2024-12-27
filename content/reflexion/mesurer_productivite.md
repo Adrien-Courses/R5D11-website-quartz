@@ -63,4 +63,4 @@ Au lieu de cela, il est plus pertinent de se concentrer sur des indicateurs axé
 - Est-ce que ceci augmente la qualité du logiciel ? (stabilité)
 - Est-ce que ceci augmente l'efficience de la création du logiciel ? (débit)
 
-En mettant en oeuvre des [itérations courtes]({{< relref "cycles_de_vie" >}}), un [feedback rapide]({{< relref "review" >}}), une [culture d'amélioration continue]({{< relref "philosophie_agile/philosophie/philosophie" >}}), en valorisant [l'expertise technique]({{< relref "viser_excellence" >}}) et en appliquant les pratiques *DevOps* l'équipe augmentera la valeur de son produit sans négligé sa stabilité et son débit
+En mettant en oeuvre des [itérations courtes]({{< relref "cycles_de_vie" >}}), un [feedback rapide]({{< relref "review" >}}), une [culture d'amélioration continue]({{< relref "philosophie_agile/philosophie/philosophie" >}}), en valorisant [l'expertise technique]({{< relref "viser_excellence" >}}) sans oublier la [dimension humaine]({{< relref "dimension_humaine" >}}) l'équipe augmentera la valeur de son produit sans négligé sa stabilité et son débit.

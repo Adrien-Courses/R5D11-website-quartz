@@ -100,9 +100,7 @@ partie différente, ceci se fait avec la Scrum Team au complet.
 -   Quelles sont les disponibilités de chacun ?
 -   ...  
 
-{{% notice style="grey" title=" " icon=" " %}}
-Privilégier les discussions et des compromis à un vote à la majorité.
-{{% /notice %}}
+> Privilégier les discussions et des compromis à un vote à la majorité.
 
 L’objectif est de définir un cadre clair et explicite où tout le monde
 est en accord avec les règles. À noter que les règles peuvent évoluer
@@ -119,11 +117,10 @@ tâches annexes pour la survie du logiciel :
 -   Évènements et forums (e.g. Devoxx)
 
 ### Dette de motivation
-{{% notice style="warning" title="Définition" icon="pen" %}}
-Developer Experience (DX) décrit les interactions et les sentiments
-qu’éprouve un développeur lorsqu’il travaille avec un corps de code afin
-d’atteindre un objectif spécifique.
-{{% /notice %}}
+> [!definition] Définition
+> Developer Experience (DX) décrit les interactions et les sentiments
+> qu’éprouve un développeur lorsqu’il travaille avec un corps de code afin
+> d’atteindre un objectif spécifique.
 
 
 -   Un ordinateur adéquat

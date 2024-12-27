@@ -10,4 +10,4 @@ Je vous souhaite la bienvenu dans ce cours dédié à la gestion de projet infor
 
 Ce cours vous invite à découvrir une vision approfondie de l'Agilité. Il vous permettra de développer un esprit critique sur la gestion de projet en explorant les différents mouvements, termes et actions qui y sont associés. 
 
-![intro](/static/intro.png)
+![intro](/static/illustrations/intro.png)

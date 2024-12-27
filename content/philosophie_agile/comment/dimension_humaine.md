@@ -3,7 +3,7 @@ title = "Dimension Humaine"
 weight = 30
 +++
 
-L'agilité met en avant la dimension humaine; on retrouve les termes *collaboration*, *dynamique d'équipe*, *transparence*, *objectif inspirant*, *comment donner un vision aux salariés ?*
+L'agilité met en avant la dimension humaine; on retrouve les termes *collaboration*, *dynamique d'équipe*, *[transparence]({{< relref "framework_scrum/piliers#transparence" >}})*, *objectif inspirant*, *comment [donner une vision aux salariés]({{< relref "developpeur_executant" >}}) ?*
 
 Donc en plus de l'excellence technique, il y a un fort côté humain dans l'agilité (mais il est souvent oublié). En effet, ce qui vous apporte de la valeur au cours terme sont l'expérience technique; vous recrutez une personne car à court terme elle répondre à vos besoins (e.g. Java et pas C# sur le CV).
 

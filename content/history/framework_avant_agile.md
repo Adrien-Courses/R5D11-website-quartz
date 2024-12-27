@@ -10,11 +10,11 @@ weight = 20
 > [!affirmation] Affirmation
 > Le manifeste agile s’est basé sur différentes méthodes de gestion de projet pour se créer comme le Scrum, l’XP, le RAD, le DSDM
 
-De nombreux frameworks Agile précèdent la création du Manisfeste Agile :
+Contrairement à ce que l'on pourrait croire, les frameworks comme Scrum ou XP ne sont pas nés après le mouvement Agile. En réalité, plusieurs frameworks Agile existaient déjà avant la création du Manifeste Agile :
 - [eXtreme Programming]({{< relref "framework_xp/index" >}}) créé en 1995
 - [Scrum]({{< relref "framework_scrum/index" >}}) créé en 1994
 
-Grâce à cette connaissance historique, nous pouvons dire que le mouvement Agile prend inspiration sur ces cadres de travails. Et, en effet, lorsqu'on regarde qui sont les signataire du Manifeste Agile, nous remarquons qu'ils sont issus de communautés diverses
+Grâce à cette connaissance historique, nous pouvons dire que le mouvement Agile prend inspiration sur ces cadres de travails. Et, lorsqu'on regarde qui sont les signataire du Manifeste Agile, nous remarquons qu'ils sont issus de communautés diverses
 
 ![signataires_manifeste](signataires_manifeste.png)
 

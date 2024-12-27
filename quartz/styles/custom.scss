@@ -1,15 +1,20 @@
 @use "./base.scss";
 // put your custom CSS here!
 body {
-    text-align: justify;
     overflow-wrap: break-word !important;
     letter-spacing: 0.007em;
     color: black !important;
     font-style: normal;
 }
 
+.page > #quartz-body footer {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
 .center p, ul, text, li, ol, ul, .katex, .math {
     color: black !important;
+    text-align: justify;
 }
 
 .center h3 {
@@ -34,9 +39,12 @@ body {
     color: #565656 !important;
     font-weight: 300 !important;
     font-size: 16px !important;
-    font-family: " Roboto Flex", sans-serif !important;
-    font-variation-settings: "GRAD" -200, "YTFI" 710, "wdth" 118 !important;
-    letter-spacing: 0.014em;
+}   
+
+.folder-title-depth1 a {
+    color: #2f2f2f !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
 }
 
 .folder-outer a:hover {
@@ -53,14 +61,6 @@ body {
 }
 
 
-.folder-title-depth1 > a {
-    color: #2f2f2f !important;
-    font-weight: 700 !important;
-    font-size: 16px !important;
-    font-family: " Roboto Flex", sans-serif !important;
-    font-variation-settings: "GRAD" -200, "YTFI" 710, "wdth" 118 !important;
-    letter-spacing: 0.014em;
-}
 
 .callout {
     &[data-callout="affirmation"] {
@@ -83,10 +83,4 @@ body {
         --bg: #db424210;
         --callout-icon: var(--callout-icon-danger);
     }
-  }
-
-
-  .page > #quartz-body footer {
-    margin-left: auto !important;
-    margin-right: auto !important;
   }

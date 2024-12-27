@@ -11,5 +11,4 @@ isBoldTitle = true
 > - [https://www.mountaingoatsoftware.com/agile/scrum](https://www.mountaingoatsoftware.com/agile/scrum)
 > - [What is Scrum? - Scrum.org](https://www.scrum.org/resources/what-scrum-module)
 
-## Table des matières
-{{% children depth="999" showhidden="true" %}}
+![planification](static/illustrations/scrum.jpg)
