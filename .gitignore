@@ -11,3 +11,4 @@ assets/indices/contentIndex.json
 linkmap
 /.hugo_build.lock
 content/.smart-connections
+node_modules
