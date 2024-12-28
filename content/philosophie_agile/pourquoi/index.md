@@ -12,5 +12,8 @@ On veut devenir Agile car on veut :
 - que l'homme soit au centre du processus (*user-centric*)
 - engager le client pour produire le bon produit
 
+> The main goal of Agile is to provide business agility and customer satisfaction, and that is achieved via close collaboration, iterative development, short feedback loops, and technical excellence
+> Clean Agile: Back to Basics (section Ideology versus Methodology)
+
 > [!bug] Note importante
 > Je vous invite dès à présent à lire la section [Abandonner Agile]({{< relref "reflexion/abandonner_agile/index" >}}) car elle permet de comprendre réellement ce qu'il y a au coeur de Agile et comment aujourd'hui nous réalisons mal cette philosophie
