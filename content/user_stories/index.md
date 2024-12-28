@@ -1,13 +1,11 @@
 +++
-type= "chapter"
 title = "Récits utilisateur"
-weight = 50
-isBoldTitle = true
+weight = 130
+comments = true
 +++
 
 Dans ce chapitre nous revenons sur les Users Stories
-- Comment les décrire avec INVEST
-- Et le moyen pour y arriver via l'atelier User Story Mapping
+- Comment les décrire avec [INVEST]({{< relref "stories_invest" >}})
+- Et le moyen pour y arriver via l'atelier [User Story Mapping]({{< relref "user_stories/user_stories_mapping/index" >}})
 
-## Table des matières
-{{% children depth="999" showhidden="true" %}}
+![user stories](static/illustrations/user_stories.jpg)

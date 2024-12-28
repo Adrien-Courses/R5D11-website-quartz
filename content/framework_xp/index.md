@@ -1,6 +1,7 @@
 +++
 title = "Framework XP"
-weight = 10
+weight = 70
+comments = true
 +++
 
 > [!ressource] Ressources

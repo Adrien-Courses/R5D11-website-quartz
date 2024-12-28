@@ -8,7 +8,7 @@ weight = 25
 > - [The study of information flow: A personal journey - Westrum](https://www.researchgate.net/publication/261186680_The_study_of_information_flow_A_personal_journey)
 > - [The five keys to a successful Google team](https://www.michigan.gov/-/media/Project/Websites/mdhhs/Folder4/Folder10/Folder3/Folder110/Folder2/Folder210/Folder1/Folder310/Google-and-Psychological-Safety.pdf?rev=7786b2b9ade041e78828f839eccc8b75)
 
-Dans la [section précédente]({{< relref "importance_culture" >}}), nous avons commencer à évoquer l'importance de l'implication de l'organisation dans une transformation Agile. Le livre *Accelerate: The Science of Lean Software and DevOps* nous apporte plusieurs éléments de réponse que nous évoquons ci-dessous.
+Dans la [section précédente]({{< relref "organisation_agile" >}}), nous avons commencer à évoquer l'importance de l'implication de l'organisation dans une transformation Agile. Le livre *Accelerate: The Science of Lean Software and DevOps* nous apporte plusieurs éléments de réponse que nous évoquons ci-dessous.
 
 > [!definition] Définition
 > The organization’s culture predicts software delivery performance and the success of the company as a whole.
@@ -52,7 +52,7 @@ like you’re the only one out of the loop? Or did you opt for continuing withou
 anything, in order to avoid being perceived as someone who is unaware?
 
 C'est le biais principal qui votre communication un atout ou un obstacle au sein de l'équipe. Cette notion de sécurité psychologique est également évoqué dans Agile et Scrum avec les notions de
-[transparence]({{< relref "piliers#transparence" >}}) et de [confiance]({{< relref "review/#session-de-travail" >}})
+[transparence]({{< relref "piliers#transparence" >}}), de [confiance]({{< relref "review/#session-de-travail" >}}) et plus généralement avec la [dimension humaine]({{< relref "dimension_humaine" >}})
 
 ### Autres pratiques
 La communication est un élément clé, mais d'autres pratiques sont également importantes
@@ -60,4 +60,4 @@ La communication est un élément clé, mais d'autres pratiques sont également 
 ![drivers](drivers.png)
 
 - Continuous Delivery : discuté dans le Chapitre 5
-- Lean Management : discuté dans les Chapitres 6 et 7
+- [Lean]({{< relref "philosophie_lean" >}}) Management : discuté dans les Chapitres 6 et 7

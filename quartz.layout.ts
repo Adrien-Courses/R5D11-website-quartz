@@ -57,7 +57,21 @@ const sortByWeight = (a: FileNode, b: FileNode): number => {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'Adrien-Courses/R5D11-website-quartz',
+        // from data-repo-id
+        repoId: 'R_kgDONi8oSQ',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDONi8oSc4Cljrc',
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       Site : "https://adriencaubel.fr",

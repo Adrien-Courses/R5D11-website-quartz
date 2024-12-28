@@ -11,9 +11,7 @@ L'estimation est une activé principale et prenante dans la gestion de projet cl
 ## Pourquoi estime-t-on ?
 Avant d’entamer la discussion si oui ou non nous devrions continuer d'estimer, regardons, en premier *pourquoi?* nous estimions. Nous pouvons résumer la réponse avec l'affirmation suivante 
 
-{{% notice style="note" title=" " icon=" " %}}
-Maximiser le bénéfice pour un coût minimum
-{{% /notice %}}
+> Maximiser le bénéfice pour un coût minimum
 
 Derrière les bénéfices se cachent les partie prenantes, notre principale raison d'estimer est la satisfaction des parties prenantes qui ont une vision plus claire de l'avancement du projet et des dates potentielles d'achèvement, ce qui favorise la confiance et la transparence.
 
@@ -65,9 +63,8 @@ Ensuite,
 ### Une estimation compris comme engage
 Souvent une estimation est considérée comme un engagement, ainsi la partie commerciale vs s'engage auprès du client en annonçant que la feature sera fini dans 1 mois (en suivant nos estimations), mais que se passera-t-il si nous n'y arrivons pas à temps ? 
 
-{{% notice style="warning" title="Estimation != Engagement" icon="pen" %}}
-**Les estimations ne sont que des estimations et non un engagement** [Quand estimation rime avec engagement - Scrum Life 66](https://youtu.be/tPndNtnOrxY)
-{{% /notice %}}
+> [!danger] Estimation != Engagement
+> **Les estimations ne sont que des estimations et non un engagement** [Quand estimation rime avec engagement - Scrum Life 66](https://youtu.be/tPndNtnOrxY)
 
 ### Privé l'équipe d'autonomie 
 > La plupart du temps, cette estimation sert à permettre à un tiers d’organiser le travail. C’est donc le moyen numéro un pour priver l’équipe d’autonomie
@@ -100,7 +97,6 @@ Il est tout à fait normal d'avoir des contraintes dur à notre projet (e.g. un 
 
 Scrum nous apporte également un élément de réponse, l'équipe s'engage *à produire un Incrément qui respecte le Sprint Goal et la qualité définie par la Definition of Done*. Ainsi en ayant une vision d'un objectif orienté sur la valeur, l'équipe aura choisi les US les plus propices pour atteindre le Sprint Goal. L'équipe ne s'est donc pas engagé sur un nombre d'US à finir ou d'une vélocité à maintenir mais sur la valeur à produire.
 
-{{% notice style="affirmation" title="Définition" icon="pen" %}}
-L'une des principales raisons de l'estimation réside dans les conversations qui découlent pour déterminer la taille des US.  
-Pourquoi quelqu'un pense que cet objet est grand ou petit.
-{{% /notice %}}
+> [!affirmation] Affirmation
+> L'une des principales raisons de l'estimation réside dans les conversations qui découlent pour déterminer la taille des US.  
+> Pourquoi quelqu'un pense que cet objet est grand ou petit.

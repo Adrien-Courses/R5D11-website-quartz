@@ -3,9 +3,8 @@ title = "Pas de documentation ?"
 weight = 60
 +++
 
-{{% notice style="tip" title="A lire également" icon="book" %}}
-- [La documentation dans les méthodes Agiles](https://blog.myagilepartner.fr/index.php/2017/10/26/documentation-methodes-agiles/)
-{{% /notice %}}
+> [!ressource] Ressources
+> - [La documentation dans les méthodes Agiles](https://blog.myagilepartner.fr/index.php/2017/10/26/documentation-methodes-agiles/)
 
 ## Documentation inutile ?
 
@@ -37,6 +36,6 @@ Cela est particulièrement vrai dans les projets logiciels, où les tests doiven
 Encore une fois, il s'agit d'une approche plus orientée vers les logiciels, mais les commentaires sont importants. Une partie de votre Definition of Done devrait inclure l'ajout d'une documentation utile à votre base de code, au changelog et aux fichiers README, ou à d'autres artefacts.
 
 ### Documentation dans le DoD
-La documentation doit faire partie de la Définition of Done pour chaque incrément. En faisant partie de la DoD, la documentation devient un ensemble de tâches pérennes pour chaque fonctionnalité ou changement au cours du développement, au lieu d'être un élément qui doit être suivi séparément ou conservé comme données historiques. On évite ainsi qu'elle devienne non-maintenue et donc obsolète.
+La documentation doit faire partie de la [Définition of Done]({{< relref "definition_of_done" >}}) pour chaque incrément. En faisant partie de la DoD, la documentation devient un ensemble de tâches pérennes pour chaque fonctionnalité ou changement au cours du développement, au lieu d'être un élément qui doit être suivi séparément ou conservé comme données historiques. On évite ainsi qu'elle devienne non-maintenue et donc obsolète.
 
 > Vous pouvez avoir besoin d’avoir une documentation technique du socle technique de l’application, d’une documentation utilisateur et d’une documentation fonctionnelle. Ne vous en privez pas, ce serait une erreur.

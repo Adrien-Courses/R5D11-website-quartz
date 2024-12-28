@@ -1,8 +1,7 @@
 +++
-type="chapter"
 title="Software Craftsmanship"
-weight=15
-isBoldTitle = true
+weight=120
+comments=true
 +++
 
 > [!ressource] Ressources

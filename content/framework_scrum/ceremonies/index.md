@@ -6,7 +6,7 @@ weight=80
 >  Les événements prescrits par Scrum créent de la régularité et minimisent la nécessité
 >  d’autres réunions non prévues.
 
-Scrum prône la communication, l’ouverture et la transparence. Ainsi, le Scrum Guide propose
+Scrum prône [la communication, l’ouverture et la transparence]({{< relref "framework_scrum/valeurs" >}}). Ainsi, le Scrum Guide propose
 quatre évènements durant un sprint : [Daily]({{< relref "daily" >}}), [Sprint Planning]({{< relref "sprint_planning" >}}), [Retrospective]({{< relref "retrospective" >}}) et [Review]({{< relref "review" >}})
 
 Tous les événements sont limités dans le temps, de telle sorte que chaque événement ait une

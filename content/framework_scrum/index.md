@@ -1,9 +1,7 @@
 +++
-type= "chapter"
-menuPre = ""
 title = "Framework Scrum"
-weight = 11
-isBoldTitle = true
+weight = 80
+comments = true
 +++
 
 > [!ressource] Ressources
@@ -11,4 +9,4 @@ isBoldTitle = true
 > - [https://www.mountaingoatsoftware.com/agile/scrum](https://www.mountaingoatsoftware.com/agile/scrum)
 > - [What is Scrum? - Scrum.org](https://www.scrum.org/resources/what-scrum-module)
 
-![planification](static/illustrations/scrum.jpg)
+![Scrum](static/illustrations/scrum.jpg)

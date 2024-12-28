@@ -1,8 +1,7 @@
 +++
-archetype = "chapter"
 title = "Urbanisation des SI (EA)"
-weight = 100
-isBoldTitle = true
+weight = 500
+comments = true
 +++
 
 Dans ce chapitre nous allons étudier l'Urbanisation des SI, mais le terme anglais *Enterprise Architecture* vous donnera plus de matière pour approfondir le sujet
@@ -12,5 +11,3 @@ Dans le livre *Urbanisme des SI et Gouvernance : bonnes pratiques de l'architect
 
 Mais dans notre étude, nous aborderons les deux thématiques sans en faire la distinction
 
-## Table des matières
-{{% children depth="999" showhidden="true" %}}

@@ -10,19 +10,15 @@ weight = 20
 - Conversation = Ensemble avoir une discussion riche sur la construction du logiciel
 - Confirmation = Ensemble ce mettre d'accord sur comment le logiciel doit être fait
 
-
-
 ### La carte
-{{% notice style="warning" title="Définition" icon="pen" %}}
-La carte n'est qu'un support pour se rappeler de la conversation et de la confirmation
-{{% /notice %}}
+> [!affirmation] Affirmation
+> La carte n'est qu'un support pour se rappeler de la conversation et de la confirmation
 
 Nous ne faisons pas qu'une pile de carte mais nous souhaitons partagée une compréhension commune via les conversations qui vont émettre.
 
 ### La conversation
-{{% notice style="warning" title="Affirmation" icon="check" %}}
-Une bonne conversation parle du QUI?, du POURQUOI? et pas seulement du QUOI?
-{{% /notice %}}
+> [!affirmation] Affirmation
+> Une bonne conversation parle du QUI?, du POURQUOI? et pas seulement du QUOI?
 
 Les premières conversations vont concernées :
 - Pourquoi nous construisons cela ?

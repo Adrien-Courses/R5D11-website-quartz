@@ -1,6 +1,7 @@
 +++
 title = "Philosophie Lean"
-weight = 2
+weight = 40
+comments = true
 +++
 
 ![planification](static/illustrations/lean.jpg)

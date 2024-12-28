@@ -6,9 +6,8 @@ weight = 10
 ## 1. Partager vision commune
 Avant d'étudier plus en détail les US, nous devons comprendre *pourquoi?* les US ont été créé. La réponse est donné dans l'introduction du livre *User Story Mapping* de Jeff Patton
 
-{{% notice style="warning" title=" " icon=" " %}}
-The real goal of using stories is **shared understanding**
-{{% /notice %}}
+> [!affirmation] Affirmation
+> The real goal of using stories is **shared understanding**
 
 Vous pourriez être tenté d'écrire un document (cahier des charges) pour d'écrire besoins (*requirement*) du système, mais les personnes lisant le document auront des compréhensions différentes. L'objectif d'une US est d'aider à se rappeler de la discussion que nous avons, et où durant laquelle nous avons établie des besoins, les caractéristiques, etc ...
 

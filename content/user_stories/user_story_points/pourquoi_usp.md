@@ -16,7 +16,7 @@ Il est légitime de se poser la question suivante, "pourquoi utiliser des *User 
 - Développeur Senior estime à 5 heures
 - Développeur Junior estime à 13 heures
 
-<=> est-il équivalent à ?
+est-il équivalent à ?
 
 - Développeur Senior estime à 5 USP
 - Développeur Junior estime à 13 USP
@@ -28,9 +28,9 @@ Non :
 - Ensuite, en utilisant des heures vous ne faite pas émerger de discussions. Le Senior estime à 5h, très bien, moi Junior à 13h, point, on s'arrête ici.
 - Tandis que si nous utilisons des USP notre objectif est de comprendre la différence entre les deux valeurs; s'il y a une différence cela signifie qu'il y a une incompréhension (e.g. technique, fonctionnelle) et qui doit être levée.
 
-{{% notice style="warning" title="Affirmation" icon="check" %}}
-L'activité d'estimation et les discussions qui en découlent sont plus importante que l'estimation (son nombre).
-{{% /notice %}}
+> [!affirmation] Affirmation
+> L'activité d'estimation et les discussions qui en découlent sont plus importante que l'estimation (son nombre).
+
 
 D'autres arguments viennent compléter les points précédents
 

@@ -1,7 +1,4 @@
 +++
-type= "chapter"
-menuPre = ""
 title = "Framework Scrumban"
-weight = 12
-isBoldTitle = true
+weight = 100
 +++

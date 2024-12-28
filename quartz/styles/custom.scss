@@ -3,8 +3,6 @@
 body {
     overflow-wrap: break-word !important;
     letter-spacing: 0.007em;
-    color: black !important;
-    font-style: normal;
 }
 
 .page > #quartz-body footer {
@@ -13,7 +11,6 @@ body {
   }
 
 .center p, ul, text, li, ol, ul, .katex, .math {
-    color: black !important;
     text-align: justify;
 }
 
@@ -22,7 +19,8 @@ body {
 }
 
 .center {
-    font-size: 18px;
+    font-size: 19px;
+    line-height: 1.54;
 }
 
 .center a {

@@ -1,7 +1,7 @@
 +++
 title = "Timeline Gestion de Projet"
-type= "chapter"
-isBoldTitle = true
-weight = -1
+weight = 10
+comments = true
 +++
+
 

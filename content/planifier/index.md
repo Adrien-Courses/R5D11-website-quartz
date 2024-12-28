@@ -1,7 +1,7 @@
 +++
 title = "Planification et Agile"
-weight = 4
-isBoldTitle = true
+weight = 50
+comments = true
 +++
 
 > [!ressource] Ressources
