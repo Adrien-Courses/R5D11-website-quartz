@@ -10,5 +10,5 @@ Lorsqu'on lit attentivement les articles, on comprend rapidement que les auteurs
 
 Ces articles permettent également de faire un "Back to the basics" de la philosophie Agile :
 - Comprendre les valeurs et les principes plus que les frameworks et pratiques
-- En plus des pratiques organisationnelles il faut également des pratiques techniques (e.g. TDD, Architecture) => Software Craftsmanship
+- En plus des pratiques organisationnelles il faut également des pratiques techniques (e.g. TDD, Architecture) => [Software Craftsmanship]({{< relref "software_craftsmanship" >}})
 - Inspecter et adapter votre processus et savoir se détacher des "soi disant" règles Agile (grâce à vos connaissances)

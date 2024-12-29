@@ -8,6 +8,7 @@ Après avoir plongé dans la philosophie Agile, exploré ses cadres de travails 
 
 Parmi les autres signataires, Andy Hunt, Jared Richardson (fondateur ultérieurement de la méthode GROWS) ou Ron Jeffries notamment ont remis en cause ultérieurement non les principes eux-mêmes, mais leur mise en pratique et leur dévoiement notamment à des fins commerciales. Dans les sections suivantes on revient sur leurs articles et ceux de d'autres auteurs 
 - Ron Jeffries : [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/)
+  - [We Tried Baseball and It Didn't Work](https://ronjeffries.com/xprog/articles/jatbaseball/)
 - Robert C. Martin : Clean Agile dédit un paragraphe à *Agile Hangover*
 - Erik Meijer : [Agile is a cancer](https://www.theregister.com/2015/01/08/erik_meijer_agile_is_a_cancer_we_have_to_eliminate_from_the_industry/?mt=1420720905092)
 - Andy Hunt : [The Failure of Agile](https://toolshed.com/2015/05/the-failure-of-agile.html)

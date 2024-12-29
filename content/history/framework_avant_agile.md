@@ -19,12 +19,3 @@ Grâce à cette connaissance historique, nous pouvons dire que le mouvement Agil
 ![signataires_manifeste](signataires_manifeste.png)
 
 C'est dans cette diversité de cadre de travail (mais centrés sur des valeurs et principes communs) qu'est naît le [Manifeste Agile]({{< relref "philosophie_agile/philosophie/manifeste" >}}).
-
-## Histoire du Manifeste
-
-> [!ressource] Ressources
-> - [History: The Agile Manifesto](https://agilemanifesto.org/history.html)
-
-> Representatives from Extreme Programming, SCRUM, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming, and others sympathetic to the need for an alternative to documentation driven, heavyweight software development processes convened. 
-
-> During 2000 a number of articles were written that referenced the category of "Light" or "Lightweight" processes. A number these articles referred to "Light methodologies, such as Extreme Programming, Adaptive Software Development, Crystal, and SCRUM". 
