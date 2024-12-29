@@ -11,3 +11,4 @@ comments = true
 > - [⚑ Ces organisations qui pourrissent l’image Agile](https://jp-lambert.me/arr%C3%AAtez-de-critiquer-lagilit%C3%A9-ou-scrum-c51fa20c3844)
 
 
+![Agile](static/illustrations/agile.jpg)

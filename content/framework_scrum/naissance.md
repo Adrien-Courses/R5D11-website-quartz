@@ -4,7 +4,7 @@ weight = 5
 +++
 
 > [!ressource] Ressources
-> - [Scrum the art of doing twice the work in half the time : page 31 à 33]()
+> - Scrum the art of doing twice the work in half the time : page 31 à 33
 
 Nous reprenons ci-dessous les paragraphes du livre qui explique la naissance de Scrum. Principalement décrite dans la section *Don't Go Chasing Waterfalls* du chapitre 2 "The Origins of Scrum"
 
