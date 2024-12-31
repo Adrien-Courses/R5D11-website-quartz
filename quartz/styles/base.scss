@@ -250,22 +250,17 @@ a {
 
     & .center,
     & footer {
-      width: 47%;
+      width: 80%; // Default width for all devices
       margin-left: auto;
       margin-right: auto;
-      @media all and ($tablet) {
-        margin-left: auto;
-        margin-right: auto;
-        width: 80%;
+
+      @media screen and (min-width: 1800px) and (max-width: 2000px) {
+        width: 70%;
       }
-      @media all and ($mobile) {
-        margin-left: auto;
-        margin-right: auto;
-        width: 80%;
+
+      @media all and (min-width: 2000px) {
+        width: 37vw; // Specific width for large-desktop
       }
-    }
-    & footer {
-      margin-left: 0;
     }
   }
 }

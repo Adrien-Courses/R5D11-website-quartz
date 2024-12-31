@@ -59,6 +59,9 @@ Le débit est suivi par les éléments suivants :
 La notion de productivité en développement logiciel dépasse de loin les métriques quantitatives traditionnelles comme le nombre de lignes de code ou la couverture de tests. Ces approches peuvent être non seulement insuffisantes mais aussi nuisibles, en induisant des comportements contre-productifs.
 
 Au lieu de cela, il est plus pertinent de se concentrer sur des indicateurs axés sur la valeur commerciale délivrée et sur des mesures de stabilité et de débit. Ces dernières permettent d’évaluer non seulement l'efficacité des équipes à produire du logiciel, mais aussi la qualité et l'impact des livraisons.
+
+> The only thing that should be measured is [outcomes]({{< relref "output_vs_outcome" >}}).
+
 - Est-ce que nous construisons les bonnes choses, c'est-à-dire celles qui apportent de la valeur ?
 - Est-ce que ceci augmente la qualité du logiciel ? (stabilité)
 - Est-ce que ceci augmente l'efficience de la création du logiciel ? (débit)

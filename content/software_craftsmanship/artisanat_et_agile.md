@@ -10,6 +10,5 @@ Les deux "mouvements" vise à livrer des produits logiciels de haute qualité et
 - collaboration étroite
 - rétroaction rapide
 
-{{% notice style="warning" title=" " icon=" " %}}
-Pour devenir Agile, les entreprises ne peuvent pas se contenter de processus collaboratifs et itératifs; il leur faut aussi d'excellentes compétences d’ingénierie. La solution parfaite est de combiner Agile et Craftsmanship
-{{% /notice %}}
+> [!affirmation] Affirmation
+> Pour devenir Agile, les entreprises ne peuvent pas se contenter de processus collaboratifs et itératifs; il leur faut aussi [d'excellentes compétences d’ingénierie]({{< relref "viser_excellence" >}}). La solution parfaite est de combiner Agile et Craftsmanship

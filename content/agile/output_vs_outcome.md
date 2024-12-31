@@ -12,6 +12,7 @@ weight = 80
 
 - Mais ce n'est pas réellement l'output qui importe, mais ce qui vient après et qu'on appelle **outcome**. L'outcome représente ce qui apporte de la valeur, vous pouvez avoir 10 features en *output* mais seulement une seule qui apporte de la valeur. **On mesure ce qu'on a fait pour améliorer la vie des gens et pour qu'ils atteignent leur objectifs**
 
+## Outcome
 L'outcome est quelque chose qu'on mesure bien après la livraison, c'est l'**impact**. Quel impact à eu notre logiciel, notre fonctionnalité sur la vie des utilisateurs.
 
 > [!affirmation] Affirmation
@@ -20,3 +21,9 @@ L'outcome est quelque chose qu'on mesure bien après la livraison, c'est l'**imp
 ![output vs outcome](output_vs_outcome2.png)
 
 On revient sur Agile qui consiste à créer un produit à **haute valeur**
+
+### Quoi mesurer ?
+
+> **The only thing that should be measured is outcomes.**
+
+Voir également [Mesurer la productivité]({{< relref "mesurer_productivite" >}})
