@@ -12,4 +12,3 @@ Parmi les autres signataires, Andy Hunt, Jared Richardson (fondateur ultérieure
 - Robert C. Martin : Clean Agile dédit un paragraphe à *Agile Hangover*
 - Erik Meijer : [Agile is a cancer](https://www.theregister.com/2015/01/08/erik_meijer_agile_is_a_cancer_we_have_to_eliminate_from_the_industry/?mt=1420720905092)
 - Andy Hunt : [The Failure of Agile](https://toolshed.com/2015/05/the-failure-of-agile.html)
-<!-- - Dave Thomas : [Agile is Dead (Long Live Agility)](https://pragdave.me/thoughts/active/2014-03-04-time-to-kill-agile.html) -->
