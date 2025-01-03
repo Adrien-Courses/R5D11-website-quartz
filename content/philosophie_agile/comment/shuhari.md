@@ -3,6 +3,11 @@ title = "Shu Ha Ri"
 weight = 5
 +++
 
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [Shu Ha Ri - Martin Fowler](https://martinfowler.com/bliki/ShuHaRi.html)
+- [Shuhari : philosophie de transmission de l’agile](https://blog.myagilepartner.fr/index.php/2017/07/04/shuhari/)
+{{% /notice %}}
+
 ![Shy Ha Ri](shuhari.png)
 
 Principalement décrit dans les ouvrages sur Scrum, néanmoins le Shu Ha Ri s'applique également pour l'ensemble plus large qu'est Agile.
