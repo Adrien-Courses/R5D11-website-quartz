@@ -38,7 +38,7 @@ On peut se demander si impacter SDP à de l'importance, et bien oui !
 ![alt text](fig24.png)
 
 ## Changer la culture
-Avant de déployer une approche pour augmenter les performances, nous devons comprendre les impacts de la culture d'entreprise et comment celle-ci doit évoluer pour qu'il y est un impact. Les travaux de Westrum nous apprennent qu'il existe plusieurs type d'organisation et nous devons viser la *Generative*
+Avant de déployer une approche pour augmenter les performances, nous devons comprendre les [impacts de la culture d'entreprise]({{< relref "importance_culture" >}}) et comment celle-ci doit évoluer. Les travaux de Westrum nous apprennent qu'il existe plusieurs type d'organisation et nous devons viser la *Generative*
 
 > Generative (performance-oriented) organizations focus on the mission. How do we accomplish our goal? Everything is subordinated to good performance, to doing what we are supposed to do.
 

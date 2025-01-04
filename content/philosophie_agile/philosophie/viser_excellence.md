@@ -16,7 +16,7 @@ De plus, [eXtreme Programming]({{< relref "framework_xp/index" >}}) dès 1999 fa
 ## Mais ...
 Bien que le mouvement Agile naît ainsi ...
 
-> ... Many Agile adoptions **have treated technical practices as secondary compared to the management** and team practices that some Agile frameworks emphasize. (Accelerate p41)
+> ... Many Agile adoptions **have treated technical practices as secondary compared to the management and team practices** that some Agile frameworks emphasize. (Accelerate p41)
 
 Ce qui conduira à l'emergence du [software craftsmanship]({{< relref "software_craftsmanship/index" >}}).
 

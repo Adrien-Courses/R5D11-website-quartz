@@ -28,3 +28,8 @@ Les pratiques sont des mises en application d'un sujet plus vague que sont les v
 
 > - Values bring purpose to pratices
 > - Practices are evidences of values - Kent Beck XP explained
+
+## Des pratiques Organisationnelles et Technique
+Trop souvent, lorsqu'on évoque Agile on se concentrent uniquement sur les pratiques managériales, négligeant ainsi l'importance fondamentale de [l'excellence technique]({{< relref "viser_excellence" >}}).
+
+> 
