@@ -14,13 +14,13 @@ weight = 30
 ![Cout du changement](cout_changement_trad.png)
 
 Dans une approche classique, plus nous avançons dans le projet plus le coût d'un changement est élevé. 
-- **Dans un tel contexte, il est tout a fait justifiable de chercher à définir complètement le logiciel avant d'entamer sa construction. Partant de cela, une approche comme Waterfall ou le Cycle en V finissent par s'imposer**
+- **Dans un tel contexte, il est tout a fait justifiable de chercher à définir complètement le logiciel avant d'entamer sa construction. Partant de cela, une approche comme [Waterfall]({{< relref "methodologie_waterfall/index" >}}) ou le Cycle en V finissent par s'imposer**
 
 - Mais, la difficulté réside dans le fait qu'au début de la vie d'un projet, nous en savons le moins possible.
 - => Nous prenons donc des décisions cruciales sur la base d'informations mal connues.
 
 ## Approche Agile
-Or, les auteurs de [XP]({{< relref "framework_xp" >}}) on découvert qu'en appliquant certains principes de conception et de programmation, il devenait possible de garder l'application suffisamment souple pour que les changement restent aisés tout au long du projet.
+Or, les auteurs de [XP]({{< relref "framework_xp/index" >}}) on découvert qu'en appliquant certains principes de conception et de programmation, il devenait possible de garder l'application suffisamment souple pour que les changement restent aisés tout au long du projet.
 
 ![Cout du changement](cout_changement_agile.png)
 
@@ -57,3 +57,8 @@ Néanmoins, la courbe ne peut pas rester indignement plate, l'article [Examining
 - Agile imparfait : malgré qu'une équipe soit Agile, au fur est à mesure de sa croissance elle standardise ses process créant des environnements plus rigides
 
 ![Cout du changement réalité](cost_of_change_reality.png)
+
+### Coût de la maintenance
+On notera également l'affirmation du suivante du livre *Designing Data-Intensive Applications*
+
+> It is well known that the majority of **the cost of software is not in its initial development, but in its ongoing maintenance**; fixing bugs, keeping its systems operational, investigating failures, adapting it to new platforms, modifying it for new use cases, repaying technical debt, and adding new features. (p 18)

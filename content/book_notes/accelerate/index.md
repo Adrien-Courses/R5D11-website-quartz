@@ -88,3 +88,73 @@ La pratique mise en avant dans l'ouvrage est la *Continuous Integration* et les 
 
 En plus des pratiques classique (versionnage, test automatique, monitoring) les éléments d'architectures se révèlent avoir un fort impact sur la CD :
 - couplage faible (lié aux notions de modularité)
+
+## Architecture
+Les décisions architecturale auront un impact sur les performances de lu logiciel et de l'organisation. En effet de mauvais choix pourront devenir un frein au débit et à la stabilité du logiciel. 
+
+Un principe clé est d'avoir une architecture dite *Faiblement couplée* (Loosely coupled) car chaque module est facilement testable et déployable; Ceci conduit à une augmentation du débit et de la stabilité du système.
+
+### Changer l'architecture == changer l'organisation
+> organizations which design systems . . . are constrained to produce designs which are copies of the communication structures of these organizations (Conway 1968)
+
+Ainsi pour avoir une architecture modulaire (qui sera *Faiblement couplée*) notre organisation doit se restructurer :
+- nécessite des équipes [pluridisciplinaires]({{< relref "framework_scrum/caracteristique" >}})
+- définir les *[Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)* et API de façon à découper uyn large domaine d'activité en plus petits domaines indépendants
+  - => Une équipe ou un groupe de développeur par module (travail isolé et qui n'impacte pas les autres équipes)
+- permettre de déployer indépendant chaque module
+
+## Pratique managériales pour le logiciel
+En plus des pratiques techniques, le management aura un impact sur la culture de l'organisation et par conséquence sur la SDP.
+
+![alt text](fig33.png)
+
+### Lean Software Development
+Mary et Tom Poppendieck propose une approche novatrice avec le *Lean Software Development*. S'inspirant des principes du Lean Manufacturing, initialement popularisés par Toyota, ils ont su adapter ces concepts à l'univers complexe du développement de logiciels.
+
+![alt text](fig71.png)
+
+Nous avons dédié un chapitre au [Lean]({{< relref "philosophie_lean" >}}), ici nous revenons seulement sur les points clés :
+- Limiter le [WIP]({{< relref "framework_kanban/principes" >}}) => éviter la surcharge et le multi-tâches
+- Management visuel
+- Obtenir des feedback après la mise en production
+- Utiliser des données rationnelles pour les *business décisions*
+
+> The use of WIP limits and visual displays is well known in the Lean community. They are used to ensure that teams don’t become overburdened. [...] It’s only when they’re combined with the use of visual displays and have a feedback loop from production monitoring tools back to delivery teams or the business that we see a strong effect. When teams use these tools together, we see a much stronger positive effect on software delivery performance.
+
+En effet WIP + Management visuel rend les obstacles visibles; ce qui encourage à les éliminer.
+
+### Lean Product Management
+
+![alt text](fig81.png)
+
+L'autonomie de l'équipe est très importante pour la performance :
+- elle soit avoir la capacité de l'équipe à essayer de nouvelles idées sans avoir l'autorisation des personnes en dehors de l'équipe
+
+En combinant Team Experiment + Small Batches + Work Visible :
+- l'équipe aura la capacité de prendre des décisions rationnelles sur le design le développement et le déploiement
+- que le changement sera basé sur le feedback
+- et finalement que les décisions soient communiqué à l'ensemble de l'organisation
+
+## Satisfaction des employés, identité et engagement
+Je m'attendais à ce que ce chapitre soit le plus ennuyeux, avec un fort préjugé sur le discours souvent flou autour de la notion d'identité. Pourtant, le chapitre 10, consacré à ce sujet, s'est révélé être particulièrement instructif.
+
+> With market pressures to deliver technology and solutions ever faster, **the importance of hiring, retaining, and engaging our workforce** is greater than ever.
+
+Cette première affirmation me fait penser au sujet de [Comment manager la genZ]({{< relref "manager_genz" >}}) et notamment un sujet très sensible qu'est la fidélisation de la GenZ en entreprise. Je suis intimement convaincu que recruter une personne est beaucoup plus simple que la fidéliser afin qu'elle reste dans l'entreprise.
+
+Les études rapportés dans le livre indique que :
+- l'engagement et la satisfaction de l'employé
+- est révélateur de la loyauté et de l'identité; ce qui peut conduire soit au burnout soit à une productivité forte 
+
+### Qu'est-ce qui est important
+- Comment l'entreprise collecte la satisfaction et l'utilise
+- La capacité de l'équipe à visualiser le flux de production 
+- Avoir les bons outils et les bonnes ressource pour accomplir le travail
+- Le fait que chaque employé s'identifie aux valeurs et objectifs de l'entreprise 
+
+### Conséquences
+> When leaders invest in their people and enable them to do their best work, employees identify more strongly with the organization and are willing to go the extra mile to help it be successful
+
+Ainsi en combinant les pratiques managériale et les pratiques technique nous impacterons à la fois la performance mais également la culture organisationnelle
+
+![alt text](fig101.png)

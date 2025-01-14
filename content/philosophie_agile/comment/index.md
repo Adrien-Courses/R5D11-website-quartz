@@ -30,12 +30,14 @@ va comprendre les avantages**.
 > [!ressource] Ressources
 > - [Agile n'est pas un état d'esprit (mindset)](https://videos.univ-lr.fr/video/3107-mes-erreurs-agiles-le-mindset/)
 
+> A team with a growth mindset believes they can change, learn, and develop their skills and abilities. In a fixed mindset, the team believes their basic qualities, like their intelligence, skills, or talents, are simply fixed traits. [^1]
 
-Nous reviendrons sur la notion de Mindset Agile dans la section dédié à la [Philosophie Agile]({{< relref "philosophie_agile/philosophie/index" >}})
-
+### Framework Agile
 Également il est important de ne pas confondre Agile et les Framework Agile. Agile représente une philosophie globale pour le développement de logiciels. Elle met l’accent sur la création d’un produit de haute qualité via des itérations.
 Pour accomplir cet objectif, de nombreux frameworks ont été développés.
 
 ![Agile framework](agile_framework.png)
 
 Également lire la ressource [Remise en question de la notion de Mindset Agile](https://medium.zenika.com/o%C3%B9-je-me-suis-tromp%C3%A9-sur-lagilit%C3%A9-l-%C3%A9tat-d-esprit-9f494ba04f70) qui va à l'encontre de la notion d'état d'esprit.
+
+[^1]: [Amplify Learning In Your Team With More Double-Loop Learning](https://medium.com/the-liberators/amplify-learning-in-your-team-with-more-double-loop-learning-eb5208e6414d)
