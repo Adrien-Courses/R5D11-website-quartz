@@ -7,9 +7,8 @@ weight = 60
 > - [https://c4model.com/](https://c4model.com/)
 > - [Visualising software architecture with the C4 model - Simon Brown](https://youtu.be/x2-rSnhpw0g)
 
-{{% notice style="warning" title="Objectif" icon="pen" %}}
-Représenter notre système avec différents niveau de détail
-{{% /notice %}}
+> [!affirmation] Affirmation
+> Représenter notre système avec différents niveau de détail
 
 Le C4 Model permet de visualiser du code à différentes échelles (zoom / dézoom). On crée une carte (map) de notre code à différent niveau
 
