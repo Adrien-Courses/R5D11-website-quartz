@@ -1,6 +1,6 @@
 +++
 title = "Équipe ou individu"
-weight = 6
+weight = 5
 +++
 
 > [!ressource] Ressources

@@ -1,6 +1,6 @@
 +++
 title = "Silo organisationnel"
-weight = 110
+weight = 20
 +++
 
 > [!ressource] Ressources
