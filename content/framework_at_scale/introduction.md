@@ -1,6 +1,6 @@
 +++
 title="Introduction"
-weight=15
+weight=20
 +++
 
 > [!ressource] Ressources
@@ -20,6 +20,7 @@ La majorité des frameworks proposent une approche pour mettre Scrum à l'échel
 - Scrum@Scale
 - Large Scale Scrum (LeSS)
 - Scaled Agile Framework for Lean Enterprises (SAFe)
+- [Spotify Model]({{< relref "spotify" >}})
 
 
 D'autres approches agiles telles que Lean, Kanban, DevOps, etc. ne sont pas incluses dans cette liste car elles ne sont pas intrinsèquement basées sur Scrum. Néanmoins, les problèmes de mise à l'échelle sont souvent présents quel que soit le cadre et doivent être traités dans toute approche d'agilité.
