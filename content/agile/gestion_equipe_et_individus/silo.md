@@ -12,7 +12,7 @@ départements, la géographie et la fonction commerciale au niveau supérieur, j
 
 ![](https://qph.cf2.quoracdn.net/main-qimg-22a5205f65125dff1a8f659d2b3ae42f-lq)
 
-On retrouve également une structure en silo dans les équipes de développement, et nous pouvons constater qu'il existe de nombreuses dépendances entre ces silos. Le défi de la gestion consiste à relier les bons silos, ceux qui doivent collaborer pour apporter la valeur.
+On retrouve également une structure en silo dans les équipes de développement, et nous pouvons constater qu'il existe de nombreuses [dépendances]({{< relref "dependance_equipe" >}}) entre ces silos. Le défi de la gestion consiste à relier les bons silos, ceux qui doivent collaborer pour apporter la valeur.
 
 ![](https://scaledagile.com/wp-content/uploads/2021/06/DVSplusdependencies2-768x438-1.png)
 

@@ -24,3 +24,22 @@ Si la meilleure équipe pouvait accomplir une tâche en une semaine, combien de 
 
 Recrutez seulement dans les "10% top workers" peut sembler une bonne approche, vous n'avez peut être pas la possibilité de le faire. Ainsi, en vous concentrant sur les équipes, vous pouvez augmenter la productivité de manière spectaculaire, même si vous vous contentez de transformer vos pires équipes en équipes simplement médiocres. Certes, viser la médiocrité ne vous mènera qu’à la médiocrité. Mais que se passerait-il si vous parveniez à rendre toutes vos équipes excellentes ?
 
+## Team-First Mindset
+> [!ressource] Ressource
+> Team Topologie Chapitre 3 - Team-First Thinking 
+
+>  Experts in organizational behavior have known for decades that modern complex systems require effective team performance: in particular, Driskell and Salas found **that teams working as a cohesive unit perform far better than collections of individuals** for knowledge-rich, problem-solving tasks that require high amounts of information [^1]
+
+Pour que les équipes fonctionnent, leurs membres doivent faire passer les besoins de l'équipe avant les leurs. Ils doivent
+- Arriver à l'heure aux réunions de travail et aux rencontres.
+- Veiller à ce que les discussions et les enquêtes restent sur la bonne voie.
+- Encourager le focus sur les objectifs de l'équipe.
+- Aider à débloquer les autres membres de l'équipe avant de commencer un nouveau travail.
+- Encadrer les nouveaux membres ou les membres moins expérimentés de l'équipe.
+- Éviter les arguments « gagnants » et, au lieu de cela, accepter d'explorer les options. 
+
+### Que faire des "invidualistes" ?
+
+> However, even with coaching, some people are unsuitable to work on teams or are unwilling to put team needs above their own. Such people can destroy teamwork and, in extreme cases, destroy teams. These people are “team toxic” and need to be removed before damage is done. (p37 et 38)
+
+[^1]: Driskell and Salas, “Collective Behavior and Team Performance,” 277–288.
