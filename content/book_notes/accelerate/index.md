@@ -6,6 +6,9 @@ weight = 20
 <img src="https://m.media-amazon.com/images/I/71XVAllesPL._UF1000,1000_QL80_.jpg" width="300">
 <br>
 
+> [!ressource] Ressources complémentaires
+> - [Accelerate par Scrum Life](https://youtu.be/c1LopX1rmYs)
+
 Accelerate est un livre qui a fortement impacté ma pensé sur le monde du Génie Logiciel et de la gestion Agile des équipes. Il apporte des éléments de réflexions reposant sur des études scientifiques. Dans ce livre vous apprendrez :
 - Que signifie la *performance* et comment la mesurer ?
 - L'importance de la culture
