@@ -149,7 +149,7 @@ Les études rapportés dans le livre indique que :
 - l'engagement et la satisfaction de l'employé
 - est révélateur de la loyauté et de l'identité; ce qui peut conduire soit au burnout soit à une productivité forte 
 
-### Qu'est-ce qui est important
+### Les choses importantes
 - Comment l'entreprise collecte la satisfaction et l'utilise
 - La capacité de l'équipe à visualiser le flux de production 
 - Avoir les bons outils et les bonnes ressource pour accomplir le travail
@@ -161,3 +161,39 @@ Les études rapportés dans le livre indique que :
 Ainsi en combinant les pratiques managériale et les pratiques technique nous impacterons à la fois la performance mais également la culture organisationnelle
 
 ![alt text](fig101.png)
+
+## Leader et Manager
+Le livre identifie cinq caractéristiques que les bons leader doivent avoir :
+- **Vision** : savoir où l'organisation souhaite aller
+- **Communication** : communiquer de façon à inspirer et motiver
+- **Stimulant** : être capable d'accompagner les personnes à penser différemment`
+- **Supporteur** : capable de "prendre soin" de ses équipes
+- **Reconnaissant** : complimenter le travail de qualité
+
+Et se leadership va impacter les équipes techniques et l'adaptation du Lean
+
+> In summary, we found that leadership helps build great teams, great technology and great organization
+
+![leadership impact](fig111.png)
+
+### Investir dans son équipe
+- Budget dédié à la formation
+- Conférences techniques
+- Travailler sur la dette technique (*[yak day](https://phinze.com/writing/useful-tech-terms)*)
+- Dédié du temps pour les expérimentations
+
+### Tips pour améliorer la culture
+- Construire de la confiance
+  - entre les équipes et dans les équipes
+  - *safe to fail* si l'échec est puni, alors les personnes nous voudrons plus entreprendre
+  - Communication ouverte, devenir prévisible même dans les situation stressante
+  - > Within an organization building and running software systems, it is therefore important to consciously limit the size of team groupings to Dunbar’s number to help achieve predictable behavior and interactions from those teams [...] Furthermore, behavioral studies suggest that humans work best with others when we can predict their behavior. (Team Topologie)<br>
+<br>
+
+- Encourager à changer de département
+  - acquérir de nouvelle compétences et pouvoir transmettre celle accumulées => bénéfique pour les deux équipes <br>
+<br>
+
+- Espace pour explorer des idées
+  - Les grosses entreprises dédie 15 à 20% de leur temps pour du *free-thinking* et les side-project
+  - Encourager les gens à partager leur innovation
