@@ -8,6 +8,7 @@ weight = 20
 
 > [!ressource] Ressources complémentaires
 > - [Accelerate par Scrum Life](https://youtu.be/c1LopX1rmYs)
+> - [Section sur DORA Report]({{< relref "dora/index" >}})
 
 Accelerate est un livre qui a fortement impacté ma pensé sur le monde du Génie Logiciel et de la gestion Agile des équipes. Il apporte des éléments de réflexions reposant sur des études scientifiques. Dans ce livre vous apprendrez :
 - Que signifie la *performance* et comment la mesurer ?
