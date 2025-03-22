@@ -119,7 +119,7 @@ Mary et Tom Poppendieck propose une approche novatrice avec le *Lean Software De
 
 Nous avons dédié un chapitre au [Lean]({{< relref "philosophie_lean" >}}), ici nous revenons seulement sur les points clés :
 - Limiter le [WIP]({{< relref "framework_kanban/principes" >}}) => éviter la surcharge et le multi-tâches
-- Management visuel
+- [Management visuel]({{< relref "agile/management_visuel" >}})
 - Obtenir des feedback après la mise en production
 - Utiliser des données rationnelles pour les *business décisions*
 

@@ -23,7 +23,7 @@ Les 3 piliers de l'empirisme selon Scrum sont les suivants
 ## Transparence
 Tous les membres de l’équipe doivent comprendre les objectifs du projet et s’y impliquer pleinement pour atteindre le but recherché. Des informations claires et compréhensibles doivent
 être mises à la disposition de tous les membres qui participeront au projet. La direction et les
-équipes doivent communiquer clairement entre elles pour éviter toute confusion (voir [Importance de la culture]({{< relref "importance_culture" >}}))
+équipes doivent communiquer clairement entre elles pour éviter toute confusion (voir [Importance de la culture]({{< relref "philosophie_agile/comment/importance_culture/index" >}}))
 
 Ci-dessous quelques référence à *Scrum: The Art of Doing Twice the Work in Half the Time*
 

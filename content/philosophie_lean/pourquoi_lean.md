@@ -1,7 +1,7 @@
 
 +++
 title = "Pourquoi le Lean ?"
-weight = 30
+weight = 20
 +++
 
 > [!ressource] Ressources
@@ -29,9 +29,7 @@ travail afin de l’améliorer et d’être plus efficace.
 semaine ?
 - Quels sont les gaspillages qui nous ont empêchés de recommencer.
 
-{{% notice style="grey" title=" " icon=" " %}}
-L’approche Lean cherche à faire mieux avec ce qu’on a.
-{{% /notice %}}
+> L’approche Lean cherche à faire mieux avec ce qu’on a.
 
 ## Responsabiliser à la résolution de problème
 > [!affirmation] Affirmation
@@ -44,11 +42,8 @@ Pour ce faire on va :
 - 
 ⇒ Les équipes deviennent donc autonomes pour soulever le problème et essayer de le résoudre (le rôle des managers est d’accompagner les équipes à surmonter ce problème).
 
-{{% notice style="warning" title="Définition" icon="pen" %}}
-Au final le Lean se décrit ainsi :
-- Le *Pourquoi ?* : satisfaire les clients
-- Le *Comment ?* : développer les gens à la résolution de problème pour faire face à
-des situations inattendues
-- Le *Quoi ?* : mise en place d’outil à flux tiré pour visualiser les problèmes avec des
-managers qui passe d’une chaine de contrôle à une chaine d’aide
-{{% /notice %}}
+> [!definition] Définition
+> Au final le Lean se décrit ainsi :
+> - Le *Pourquoi ?* : satisfaire les clients
+> - Le *Comment ?* : développer les gens à la résolution de problème pour faire face à des situations inattendues
+> - Le *Quoi ?* : mise en place d’outil à flux tiré pour visualiser les problèmes avec des managers qui passe d’une chaine de contrôle à une chaine d’aide
