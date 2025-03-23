@@ -63,6 +63,7 @@ along with a set of other technical practices known collectively as continuous d
 
 ![alt text](fig33.png)
 
+J'aimerai compléter en ajoutant que le changement de culture peut être amené par des [Innovators and Early Adopters]({{< relref "agile/developpeur_executant/innovators_early_adapoter" >}}) si on leur laisse la liberté de proposer des idées.
 
 ## Pratiques techniques
 Tout comme le livre *Scrum: The Art of Doing Twice the Work in Half the Time* ou encore *Clean Agile*, les auteurs du livre nous re-informe de l'importance de [l'excellence technique]({{< relref "viser_excellence" >}}) et que celle-ci fait partie de la philosophie Agile
