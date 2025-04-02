@@ -7,4 +7,5 @@ weight = 140
 
 - L'équipe de DORA a produit plusieurs années consécutives le rapport « Accelerate », qui mesure et identifie les pratiques clés qui améliorent les performances organisationnelles et techniques dans les entreprises IT.
 
-Le livre [Accelerate]({{< relref "book_notes/accelerate/" >}}), publié par Nicole Forsgren, Jez Humble et Gene Kim, est issu directement des études menées par DORA. Il présente des conclusions scientifiques tirées des rapports annuels de DORA sur les pratiques DevOps.
+En 2018, les apprentissages clés du DORA sont retranscrit dans le livre [Accelerate]({{< relref "book_notes/accelerate/" >}}). Il présente des conclusions scientifiques tirées des rapports annuels de DORA sur les pratiques DevOps.
+
