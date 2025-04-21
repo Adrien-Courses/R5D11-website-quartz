@@ -27,4 +27,4 @@ Comme j'ai souhaité le faire avec ce site, revenir au base pour comprendre en p
 Avoir un esprit critique sur ce que vous lisez, apprenez, observez (en incluant ce site) et continuer à vous renseigner sur le sujet Agile afin d'affiner vos connaissances et vos compétences. 
 De mon côté, deux ouvrages ont particulièrement marqué mon parcours dans la remise en question de mes connaissances sur Agile :
 - Tout d'abord, Clean Agile, qui recentre le débat en revenant aux fondamentaux de l'Agilité.
-- Plus récemment, Accelerate, qui propose une réflexion scientifique sur la productivité et la performance dans l'industrie logicielle.
+- Plus récemment, [Accelerate]({{< relref "book_notes/accelerate/" >}}), qui propose une réflexion scientifique sur la productivité et la performance dans l'industrie logicielle.

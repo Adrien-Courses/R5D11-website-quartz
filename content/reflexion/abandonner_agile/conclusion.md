@@ -12,3 +12,12 @@ Ces articles permettent également de faire un "Back to the basics" de la philos
 - Comprendre les valeurs et les principes plus que les frameworks et pratiques
 - En plus des pratiques organisationnelles il faut également des pratiques techniques (e.g. TDD, Architecture) => [Software Craftsmanship]({{< relref "software_craftsmanship" >}})
 - Inspecter et adapter votre processus et savoir se détacher des "soi disant" règles Agile (grâce à vos connaissances)
+
+## Jeter Agile ?
+Agile a apporté une certaine discipline dans la réalisation de produit :
+- l'ensemble des pratiques craft et l'excellence technique
+- la notion d'itération et feedback
+
+Après presque 30 ans d'existence on peut dire que ces pratiques sont ancrées dans les entreprises. Toute entreprise, toute équipe se revendique Agile. Néanmoins l'agilité est souvent [cantonné à l'équipe de développement]({{< relref "philosophie_agile/comment/organisation_agile" >}}). 
+
+La majorité des personnes comprennent les outils et less process autour de Agile mais peu sont capable d'influencer la [culture d'entreprise]({{< relref "philosophie_agile/comment/importance_culture/" >}}). Or comme déjà souligné, sans un déclic sur la culture de l'organisation, l'entreprise ne deviendra jamais Agile.

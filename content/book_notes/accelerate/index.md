@@ -23,7 +23,7 @@ Nous l'avons souligné dans des sections précédentes, les principales erreurs 
 - se concentrer sur [l'individu au lieu de l'équipe]({{< relref "equipe_individu" >}})
   
 ### 4 mesures
-Les auteurs proposent quatre métrique pour mesurer *Software Delivery Performance* (SDP) :
+Les auteurs proposent quatre métrique ([qui ont évolué depuis]({{< relref "evolution_2018_2024" >}})) pour mesurer *Software Delivery Performance* (SDP) :
 - Delivery Lead Time
 - Deployment Frequency
 - Mean Time to Restore
@@ -181,7 +181,7 @@ Et se leadership va impacter les équipes techniques et l'adaptation du Lean
 ### Investir dans son équipe
 - Budget dédié à la formation
 - Conférences techniques
-- Travailler sur la dette technique (*[yak day](https://phinze.com/writing/useful-tech-terms)*)
+- Travailler sur la [dette technique]({{< relref "philosophie_agile/pourquoi/qualite_logicielle/dette_technique" >}}) (*[yak day](https://phinze.com/writing/useful-tech-terms)*)
 - Dédié du temps pour les expérimentations
 
 ### Tips pour améliorer la culture

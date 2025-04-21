@@ -10,7 +10,7 @@ weight = 10
 Etre Agile c’est :
 - adopter une approche itérative et incrémentale
 - menée dans un esprit collaboratif
-- pour générer un produit de haute qualité
+- pour générer un produit de [haute qualité]({{< relref "philosophie_agile/pourquoi/qualite_logicielle" >}})
 - en tenant compte de l’évolution client
 
 L’agilité s’oppose à des modèles classiques de développement logiciel (e.g. Cycle en V, Cascade). On y travaille par cycle afin d’**obtenir du feedback**. Le feedback est essentiel, car il

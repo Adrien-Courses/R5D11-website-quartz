@@ -5,6 +5,11 @@ body {
     letter-spacing: 0.007em;
 }
 
+// Augmenter l'espacement entre les listes à puces 
+article ul li {
+    margin-bottom: 5px;
+}
+
 img {
     display: block;
     margin-left: auto;
