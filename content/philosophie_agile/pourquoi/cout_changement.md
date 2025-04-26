@@ -62,3 +62,16 @@ Néanmoins, la courbe ne peut pas rester indignement plate, l'article [Examining
 On notera également l'affirmation du suivante du livre *Designing Data-Intensive Applications*
 
 > It is well known that the majority of **the cost of software is not in its initial development, but in its ongoing maintenance**; fixing bugs, keeping its systems operational, investigating failures, adapting it to new platforms, modifying it for new use cases, repaying technical debt, and adding new features. (p 18)
+
+## Comment essayer de rester constant ?
+
+### CI
+
+> By using continuous integration and making code deployment a low-risk process, Facebook has enabled code deployment to be a part of everyone’s daily work and sustain developer productivity[^1]
+
+Nous savons qu'il n'est pas possible d'avoir la même productivité tout au long de la vie du produit. Néanmoins l'application de certaines pratiques techniques comme l'Integration Continue (via des tests-automatisés) peut contribuer à rester constant au fil des mois et des années.
+
+[^1]: The DevOps Handbook page 154 
+
+### Manager Dette Technique
+Voir [dette technique]({{< relref "philosophie_agile/pourquoi/qualite_logicielle/dette_technique  " >}})

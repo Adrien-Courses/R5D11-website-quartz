@@ -36,6 +36,6 @@ Tout le monde connaît la conséquence. En baissant ou en ignorant un certain [s
 ![manage technical debt](philosophie_agile/pourquoi/qualite_logicielle/images/manage_technical_debt.png)
 
 ### La rendre visible
-Premièrement il faut la rendre visible au "business". Dans de nombreuse entreprise le "business" n'a pas connaissance de cette dette technique ou n'en mesure pas les impacts. L'objectif est de la rendre visible (chiffre), par exemple en l'incluant dans le chiffrage. Un autre façon est de traquer la vélocité et si au fil si elle diminue alors cela peut signifier au augmentation de la dette technique (et du temps/coût de développement).
-
-Ensuite, il faut la rendre visible au "technique" en la positionnant dans le Product Backlog par exemple.
+La dette technique doit être visible à la fois pour les personnes gérantes de la partie "business" et également ceux responsables de la partie "technique" (aka Dev).
+- Dans de nombreuse entreprise le "business" n'a pas connaissance de cette dette technique ou n'en mesure pas les impacts. L'objectif est de la rendre visible (chiffre), par exemple en l'incluant dans le chiffrage. Un autre façon est de traquer la vélocité et si au fil si elle diminue alors cela peut signifier au augmentation de la dette technique (et du temps/coût de développement).
+- Ensuite, pour la rendre visible au "technique" on peut par exemple positionner des User Stories dans le Product Backlog
