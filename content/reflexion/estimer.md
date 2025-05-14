@@ -5,6 +5,7 @@ weight=10
 
 > [!ressource] Ressources
 > - [Estimation liste d'articles - Ron Jeffries](https://ronjeffries.com/articles/estimation-articles/)
+> - [Coûts irrécupérables des ESTIMATIONS : biais cognitifs ou véritable outil ? - Scrum Life](https://youtu.be/uvCvwtK-P-M)
 
 L'estimation est une activé principale et prenante dans la gestion de projet classique. Mais quand est-il lorsqu'on parle d'agilité et qu'on utilise un framework comme Scrum ?
 

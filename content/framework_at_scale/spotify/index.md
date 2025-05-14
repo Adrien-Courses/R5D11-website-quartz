@@ -5,6 +5,7 @@ weight = 30
 
 > [!ressource] Ressource
 > - https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf
+> - [Le modèle Spotify : présentation par Rachel Dubois, ex-Spotify et experte Agile@Scale !](https://www.youtube.com/watch?v=7tFC7zn715A)
 > - Team Topologie page 63
 > [Beyond the Spotify Model: using Team Topologies for fast Flow and Organisation Evolution](https://teamtopologies.com/videos-slides/2019/08/28/beyond-the-spotify-model-using-team-topologies-for-fast-flow-and-organisation-evolution)
 

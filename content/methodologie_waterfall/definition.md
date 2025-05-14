@@ -5,11 +5,15 @@ weight = 10
 +++
 
 > [!ressource] Ressources
+> - [Waterfall document d'origine par Royce - Managing the development of large software systems](https://www.praxisframework.org/files/royce1970.pdf)
+> - [Explication du Waterfall en se basant sur Royce](http://beza1e1.tuxen.de/waterfall.html)
+> - [Erik Moberg - The Waterfall Model Does Not Exist - YouTube](https://youtu.be/L4ElOdbiTqQ)
 > - [https://www.youtube.com/watch?v=NP9AIUT9nos](https://www.youtube.com/watch?v=NP9AIUT9nos)
     - Moment marquant 11:53
-> - [The Myth of the 'Waterfall' SDLC](http://www.bawiki.com/wiki/Waterfall.html)
+> - [🚩 The Myth of the 'Waterfall' SDLC --> The Many Misconceptions of Waterfall](http://www.bawiki.com/wiki/Waterfall.html)
 > - [Dr. Royce and Waterfall](https://leanagiletraining.com/better-agile/dr-royce-and-waterfall/)
 >   - Explication des 5 étapes du document de Royce
+> - [Scaling Software Agility - C2 Why the Waterfall Model Doesn't Work](https://res.infoq.com/articles/scaling-software-agility/en/resources/ch02.pdf)
 
 Dans cette section nous allons revenir sur le fonctionnement de la méthode Waterfall au travers de l'affirmation suivante.
 
@@ -27,17 +31,18 @@ Et on ne se rend compte uniquement lors de la livraison que le travail réalisé
 
 ![Waterfall incomplet](waterfall1.png)
 
-Juste en dessous de cette figure 2, nous pouvons lire
+Juste avant cette figure 2 nous pouvons lire
+> [!bug] Note importante
+> Figure 3 portrays the iterative relationship between successive development phases for this scheme. The ordering of steps is based on the following concept: that as each step progresses and the design is further detailed, **there is an iteration with the preceding and succeeding steps** but rarely with the more remote steps in the sequence. The virtue of all of this is that as the design proceeds **the change process is scoped down to manageable limits**.
+
+
+Et juste en dessous de cette figure 2, nous pouvons lire
 
 > [!bug] Note importante
-> I believe in this concept, **but the implementation described above is risky and invites failure**. The problem is illustrated in Figure 4.
+> I believe in this concept, **but the implementation described above is risky and invites failure**.
 
 
 ## Mais revenons au document de référence
-> [!ressource] Ressources
-> - [Waterfall document d'origine par Royce - Managing the development of large software systems](https://www.praxisframework.org/files/royce1970.pdf)
-> - [Explication du Waterfall en se basant sur Royce](http://beza1e1.tuxen.de/waterfall.html)
-> - [Erik Moberg - The Waterfall Model Does Not Exist - YouTube](https://youtu.be/L4ElOdbiTqQ)
 
 L'étude du modèle en Cascade s'arrête souvent à la conclusion du paragraphe précédent. Néanmoins si nous lisons le document d'origine nous nous rendons vite compte que le modèle en Cascade n'est pas celui souvent décrit.
 

@@ -26,4 +26,8 @@ On revient sur Agile qui consiste à créer un produit à **haute valeur**
 
 > **The only thing that should be measured is outcomes.**
 
+- On se concentre sur les objectifs à atteindre, et non plus sur un ensemble prédéfini de tâches.
+- On accepte que le périmètre soit flexible : les tâches à réaliser peuvent évoluer tant qu’on reste aligné sur l’objectif final.
+- C’est l’approche outcome over output : ce qui compte, c’est la valeur livrée (résultat), pas la quantité de travail abattue (fonctionnalités codées).
+
 Voir également [Mesurer la productivité]({{< relref "mesurer_productivite" >}})
