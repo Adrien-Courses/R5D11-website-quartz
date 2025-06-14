@@ -1,6 +1,6 @@
 +++
 title="Caractéristiques d'une équipe Scrum"
-weight=30
+weight= 33
 +++
 
 Une équipe Scrum est *pluridisciplinaire* et *auto-organisée*
