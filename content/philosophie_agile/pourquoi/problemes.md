@@ -39,6 +39,10 @@ prédéfinis. Nous sommes à la naissance de l’agilité :
 >  Il s’agit d’accepter une réalité et de comprendre que dans le développement logiciel tout
 >  n’est pas prévisible.
 
+> Sur les besoins : **We do not assume that we, or our customers, can fully understand all the requirements**, or that anyone can possibly understand them all up front. [^1]
+
+> Sur les solutions : We do not assume that we can develop new, state-of-the-art, unproven, innovative, and risk-laden software projects on a fixed-functionality and fixed-schedule basis. Indeed, we assume that we cannot. Instead, **we assume that we can deliver the most important features to our customer earlier**, rather than later, than the customer might have expected. In so doing, we can get immediate feedback on whether we are building the right solution. [^1]
+
 Chaque projet est une nouvelle expérience où il est très difficile de se mettre d’accord une
 fois pour toutes avec le client. En acceptant l’incertitude, on accepte également l’idée du
 changement :
@@ -46,13 +50,15 @@ changement :
 - dans la planification
 - dans l’organisation de l’équipe
 
-⇒ On s’adapte aux imprévus. En s’appuyant sur le **feedback**, **l’expérience*- et le **constat**. Nous
+⇒ On s’adapte aux imprévus. En s’appuyant sur le **feedback**, **l’expérience** et le **constat**. Nous
 optons pour une **démarche d’amélioration continue**.
 
 ## Accepter le changement
 
 > [!affirmation] Affirmation
 >  Accueillir le changement à bras ouverts plutôt que de le craindre et le combattre.
+
+> We do not assume that change will be small and manageable. Rather, we assume that change will be constant, and we deliver in small increments to better track change. [^1]
 
 On sait que de nombreux paramètres sont imprévisibles lors du projet. Il s’agit donc de mieux
 contrôler cette imprévisibilité sans la nier en évitant d’être systématiquement obsédé par les
@@ -71,3 +77,5 @@ C’est dans un contexte de gaspillage et de transformation du numérique quand 
 Depuis, The Standish Group publie annuellement le CHAOS Report qui regroupe un ensemble
 de statistique sur les projets informatiques. Par exemple en 2015, on dénombrait 29% des projet finis en temps/budget, 19% abandonnés et 52% connaissaient des dépassements de
 coût/délais.
+
+[^1]: Scaling Software Agility - p26
