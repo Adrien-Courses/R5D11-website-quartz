@@ -47,5 +47,10 @@ En outre, plus le délai entre la définition des besoins et la livraison du sys
 ![alt text](deadline.png)
 ![alt text](deadline2.png)
 
+### l'objectif logiciel défini plusieurs fois
+Le livre *The Lean Tech Manifesto* souligne un autre point pertinent
+
+> This misconception of waterfall causes a lot of waste, with different **teams trying to fully describe the target software product three times**: in the detailed specifications, in the code, and yet again in the testing suite used to check that the code matches the specifications.
+
 ## Comment Agile répond à ses problèmes ?
 Voir [Philosophie Agile - Réponse à des problèmes]({{< relref "philosophie_agile/pourquoi/problemes" >}})
