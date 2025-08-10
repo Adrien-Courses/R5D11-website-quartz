@@ -43,8 +43,6 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open", // default state of folders ("collapsed" or "open")
       useSavedState: true,
       sortFn: (a, b) => {
-        // Sort order: folders first, then files
-        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
           // First try to sort by weight if available
           const weightA = a.data?.weight !== undefined ? a.data.weight : Infinity;
           const weightB = b.data?.weight !== undefined ? b.data.weight : Infinity;
@@ -59,7 +57,7 @@ export const defaultContentPageLayout: PageLayout = {
             numeric: true,
             sensitivity: "base",
           });
-        }
+        
       }
     }),
   ],

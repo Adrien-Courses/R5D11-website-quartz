@@ -11,6 +11,12 @@ C'est dans le seconde edition de son livre *Extreme Programming Explained* que K
 - Principes == les lignes directrices dans un domaine spécifique
 - Pratiques == ce qu’on fait au quotidien 
 
+|  Aspect   |                                                                                              Description                                                                                              |                                                             Exemples dans XP                                                              |
+| :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|  Valeurs  | Croyances fondamentales et générales qui donnent une direction et un sens à l’équipe. Elles définissent pourquoi l’équipe adopte une certaine façon de travailler : elles servent d’"étoile polaire". |                                    Communication, Simplicité, Feedback (Rétroaction), Courage, Respect                                    |
+| Principes |                 Lignes  directrices concrètes issues des valeurs. Les principes traduisent les  valeurs en concepts que l’équipe peut suivre pour guider ses décisions  quotidiennes.                 |                 Retour rapide, Simplicité assumée, Changement incrémental, Acceptation du changement, Travail de qualité                  |
+| Pratiques |                Méthodes  ou activités spécifiques appliquées régulièrement par l’équipe. Elles  permettent de mettre en œuvre les principes, et donc aussi les valeurs,  au quotidien.                | Programmation  en binôme, Développement dirigé par les tests (TDD), Intégration  continue, Petites livraisons fréquentes, Refactorisation |
+
 ## Valeurs
 > Values need to be made explicit because they give meaning to practices. Without them, practices can turn into tedious, dull tasks with no purpose. Whether communication is valuable for someone can be known by the practices also, writing a document 5 pages long instead of 15 minute conversation.
 
