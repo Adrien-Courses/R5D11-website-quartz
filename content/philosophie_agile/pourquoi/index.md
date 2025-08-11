@@ -10,6 +10,7 @@ On veut devenir Agile car on veut :
 - pouvoir encaisser le changement
 - livrer un produit de haut qualité
 - que l'homme soit au centre du processus (*user-centric*)
+- rendre l'équipe propriétaire du processus
 - engager le client pour produire le bon produit
 
 > The main goal of Agile is to provide business agility and customer satisfaction, and that is achieved via close collaboration, iterative development, short feedback loops, and technical excellence
