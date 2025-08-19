@@ -25,22 +25,4 @@ avec qui et comment travailler. En se focalisant davantage sur la Scrum Team, la
 sur une Scrum Team autogérée par rapport à un objectif à atteindre, en choisissant avec qui, comment et
 sur quoi travailler.
 
-## Pourquoi cette forte autonomie ?
-Ce besoin d'autonomie (surtout dans la prise de décision) est décrit dans le Chapitre 3 du livre *The Scrum Fieldbook*.
 
-> [!definition] Définition
-> **Decision Latency** : combien de temps s'écoule entre le fait qu'une décision doit être prise et le moment où elle est réellement prise.
-
-Si on se réfère CHAOS Report, les décisions prises en moins d'une heure permettent une meilleure réussite du projet (50%) en comparaison avec celle qui mettent plus de 5 heures; avec seulement 18% de réussite. On notera également que 5h n'est pas énorme pour une prise de décision. 
-
-![decision latency](framework_scrum/images/decision_latency.png)
-
-Or bien que la majorité des décisions sont triviales et faciles à prendre on rencontre souvent un process lourd qui prend énormément de temps (e.g. Japan *ringi* decision-making process)
-
-C'est pour cette raison, que Scrum propose que la "force de décision" soit au niveau de l'équipe avec deux responsables
-- l'équipe elle même
-- et le Product Owner
-
-=> Seules les personnes qui ont le plus de connaissances et qui comprennent le mieux le sujet devraient prendre la décision.
-
-> One hour. That's the goal. That's how fast decision need to be made
