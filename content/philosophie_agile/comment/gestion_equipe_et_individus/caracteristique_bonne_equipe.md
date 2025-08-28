@@ -11,6 +11,6 @@ weight = 10
 
 
 - **Autonomous**: The teams are self-organizing and self-managing, they have the power to make their own decisions about how they do their jobs, and are empowered to make those decisions stick.<br><br>
-
+    - L'autonomie accélère la prise de décision ([decision latency]({{< relref "philosophie_agile/comment/importance_culture/decision_latency" >}})) et stimule l'innovation
 
 - **Cross-Functional**: The teams have all the skills needed to complete the project. Planning, design, production, sales, distribution. And those skills feed and reinforce each other. As one team member that designed a revolutionary new camera for Canon described it: “When all the team members are located in one large room, someone’s information becomes yours, without even trying. You then start thinking in terms of what’s best or second best for the group at large and not only where you stand.”

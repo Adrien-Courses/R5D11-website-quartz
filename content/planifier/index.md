@@ -5,6 +5,7 @@ comments = true
 +++
 
 > [!ressource] Ressources
+> - Agile Estimating and Planning par Mike Cohn
 > - A lire également [A-t-on besoin de planifier ?]({{< relref "reflexion/planifier" >}})
 > - A lire également [A-t-on besoin d'estimer ?]({{< relref "reflexion/estimer" >}})
 > - [4 Mike Cohn Agile Planning - Youtube](https://youtu.be/Q8jRJOJerqk)
