@@ -27,6 +27,8 @@ C'est ainsi, en 1993, alors qu’il travaille chez Easel Corporation que Jeff Su
 
 > This was the formal birth of “Scrum.”
 
+![chronologie](https://www.visual-paradigm.com/servlet/editor-content/scrum/what-is-the-evolution-of-scrum/sites/7/2018/12/history-of-scrum.png)
+
 ## Conséquences
 > We delivered the product at Easel on schedule within six months, under budget, and with fewer bugs than any previous delivery.
 
