@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "fr-FR",
-    baseUrl: "agile.adriencaubel.fr",
+    baseUrl: "etreagile.fr",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

@@ -14,7 +14,8 @@ La méthodologie Waterfall a largement été utilisée pour créer des logiciels
 - une connaissance parfaite avant même de commencer
 - que tout au long du développement le périmètre reste inchangé
 - qu’on ne changera pas de direction au cours du développement
-- les changements sont supposés être minimes.
+- les changements sont supposés être minimes
+- de tout planifier en amont
 
 La méthode Waterfall avait pour but de garantir que le produit final correspond à ce qui avait
 été spécifié au départ. Cette approche fonctionnait bien sur des applications complexes et
