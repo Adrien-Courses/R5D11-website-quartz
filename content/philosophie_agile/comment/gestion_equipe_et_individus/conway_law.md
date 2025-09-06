@@ -1,6 +1,6 @@
 +++
 title = "Conway's Law"
-weight = 30
+weight = 40
 +++
 
 > [!ressource] Ressource

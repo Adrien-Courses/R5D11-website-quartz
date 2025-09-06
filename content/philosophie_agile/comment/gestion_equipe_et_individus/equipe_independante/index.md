@@ -1,6 +1,6 @@
 +++
 title = "Équipe indépendante"
-weight = 20
+weight = 30
 +++
 
 ## Pourquoi des équipes indépendantes ?

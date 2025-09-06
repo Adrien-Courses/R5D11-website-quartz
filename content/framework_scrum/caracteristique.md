@@ -3,16 +3,12 @@ title="Caractéristiques d'une équipe Scrum"
 weight= 33
 +++
 
-Une équipe Scrum est *pluridisciplinaire* et *auto-organisée*
+> [!definition] Pluridisciplinaire et auto-organisée
+> Une équipe Scrum est *pluridisciplinaire* et *auto-organisée*. Au final elle répond aux [Caractéristiques d'une bonne équipe]({{< relref "philosophie_agile/comment/gestion_equipe_et_individus/index" >}})
 
 ## Pluridisciplinaire (cross-functional)
-L’équipe dispose de toutes les compétences nécessaires pour transformer les Product Backlog Items en un incrément.
-  ![crossfunctional](cross_fonctionnal.png)
 
-### Cross-functional vs Cross-skilled
-- Cross-functional : l’équipe a les connaissances nécessaires pour produire un incrément.
-- Cross-skilled : chaque personne de l’équipe peut effectuer tous les aspects du travail ;
-chaque personne à toutes les compétences.
+[Pluridisciplinaire]({{< relref "philosophie_agile/comment/gestion_equipe_et_individus/pluridisciplinaire" >}})
 
 ## Auto-organisée
 En interne elle décide du fonctionnement ; qui fait quoi, quand et comment
