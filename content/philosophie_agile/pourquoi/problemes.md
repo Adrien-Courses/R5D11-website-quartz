@@ -36,6 +36,11 @@ prédéfinis. Nous sommes à la naissance de l’agilité :
 
 ## Accepter l’incertitude
 
+> [!ressource] Ressource
+> - [The New Methodology - The Unpredictability of Requirements](https://www.martinfowler.com/articles/newMethodology.html#TheUnpredictabilityOfRequirements)
+> - [The New Methodology - Is Predictability Impossible?](https://www.martinfowler.com/articles/newMethodology.html#IsPredictabilityImpossible)
+
+
 > [!affirmation] Affirmation
 >  Il s’agit d’accepter une réalité et de comprendre que dans le développement logiciel tout
 >  n’est pas prévisible.
@@ -51,8 +56,13 @@ changement :
 - dans la planification
 - dans l’organisation de l’équipe
 
+Là où avec Waterfall on spécifiait l'ensemble du produit dès le début, avec Agile nous savons qu'il est impossible d'éliminer toute l'incertitude dès le début du projet.
+![reduire incertitude](reduire_incertitude.png)
+
+> We need an honest feedback mechanism which can accurately tell us what the situation is at frequent intervals. The key to this feedback is iterative development [^2]
+
 ⇒ On s’adapte aux imprévus. En s’appuyant sur le **feedback**, **l’expérience** et le **constat**. Nous
-optons pour une **démarche d’amélioration continue**.
+optons pour une **démarche itérative et d’amélioration continue**.
 
 ## Accepter le changement
 
@@ -80,3 +90,4 @@ de statistique sur les projets informatiques. Par exemple en 2015, on dénombrai
 coût/délais.
 
 [^1]: Scaling Software Agility - p26
+[^2]: [The New Methodology](https://www.martinfowler.com/articles/newMethodology.html#IsPredictabilityImpossible)
