@@ -6,6 +6,7 @@ weight = 20
 > [!ressource] Ressources
 > - Ta Gueule c'est Agile page 114 à 118
 > - Accelerate p124
+> - [What Does Scrum Mean by Cross Functional Teams? ](https://www.mountaingoatsoftware.com/blog/what-does-scrum-mean-by-cross-functional-teams)
 
 L’équipe dispose de toutes les compétences nécessaires pour transformer les Product Backlog Items en un incrément.
 
@@ -25,6 +26,8 @@ Pour favoriser les équipes à devenir pluridisciplinaire, nous pouvons mettre e
 - Pair Programming, où les développeurs partagerons leurs connaissances techniques et métiers
 - Code Review
 - DDD : qui permet de faire collaborer les experts métier et des développeurs via des ateliers comment l'event storming (voir également [User Story Mapping]({{< relref "user_stories/user_stories_mapping/index" >}}))
+
+> A T-shaped team member is someone who has depth of knowledge just like the I-shaped person, but they also have a breadth of knowledge across many functional areas. They can lend a hand on lots of things.
 
 ### Aspect organisationnel
 > Our research shows that three things are highly correlated

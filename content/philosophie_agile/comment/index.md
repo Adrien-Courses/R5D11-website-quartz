@@ -29,6 +29,7 @@ va comprendre les avantages**.
 ## Le Mindset Agile
 > [!ressource] Ressources
 > - [Agile n'est pas un état d'esprit (mindset)](https://videos.univ-lr.fr/video/3107-mes-erreurs-agiles-le-mindset/)
+> - [LA "méthode" Agile est un mensonge ! - Agile n'est pas une méthode](https://youtu.be/URW787_P6Fk)
 
 > A team with a growth mindset believes they can change, learn, and develop their skills and abilities. In a fixed mindset, the team believes their basic qualities, like their intelligence, skills, or talents, are simply fixed traits. [^1]
 
