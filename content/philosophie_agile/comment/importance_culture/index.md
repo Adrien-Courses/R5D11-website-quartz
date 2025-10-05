@@ -15,7 +15,6 @@ Dans la [section précédente]({{< relref "organisation_agile" >}}), nous avons 
 > The organization’s culture (*culture d'entreprise*) predicts software delivery performance and the success of the company as a whole.
 
 ## 3 types de cultures
-
 Les auteurs distinguent trois types de cultures, appelées « typologie de Westrum » du nom de l'auteur qui a introduit la classification : 
 - Les organisations Politiques (Pathological dans le texte original)
 - Les organisations Bureaucratiques
@@ -47,6 +46,11 @@ Et pour accentuer cet élément, une étude menée par Google nous dit
 
 > Who is on a team matters less than how the team members interact, structure their work, and view their contributions
 
+### Comment changer la culture d'une organisation ?
+> Ce que mon expérience NUMMI m’a appris, c’est que la façon de changer la culture d’une organisation **n’est pas de commencer par changer la façon dont les gens pensent, mais plutôt de commencer par changer la façon dont les gens se comportent – ce qu’ils font** [^2].
+
+Autrement dit, le changement culturel viendra d'un changement de pratiques
+
 ### Autres pratiques
 La communication est un élément clé, mais d'autres pratiques sont également importantes
 
@@ -57,3 +61,4 @@ La communication est un élément clé, mais d'autres pratiques sont également 
 
 
 [^1]: The Velasquez et al., 2014 State of DevOps Report.
+[^2]: https://coach-agile.com/2021/11/changer-culture-organisationnelle/
