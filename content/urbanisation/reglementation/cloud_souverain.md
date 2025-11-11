@@ -22,9 +22,8 @@ La question est donc ce savoir si le transfert de données, demandé en vertu du
     - ...
 
 ## Apparition d'un cloud souverain
-{{% notice style="warning" title="Définition" icon="pen" %}}
-- Infrastructures cloud entièrement détenues et hébergées sur le territoire national
-- Contrôle total par des acteurs nationaux ou européens
-{{% /notice %}}
+> [!definition] Définition
+> - Infrastructures cloud entièrement détenues et hébergées sur le territoire national
+> - Contrôle total par des acteurs nationaux ou européens
 
 Les entreprises européennes peuvent prendre des mesures pour se conformer à la fois au Cloud Act et au RGPD. Par exemple, elles peuvent choisir des fournisseurs de services cloud basés en Europe ou dans des pays offrant un niveau de protection adéquat.
