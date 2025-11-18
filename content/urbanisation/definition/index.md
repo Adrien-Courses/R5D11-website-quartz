@@ -7,6 +7,7 @@ weight = 10
 > - [What is Enterprise Architecture An Introduction to Enterprise Architecture](https://www.youtube.com/watch?v=g9DoRyjCQlA)
 > - [Solution Architect vs Enterprise Architect vs Technical Architect](https://www.interfacing.com/solution-architect-vs-enterprise-architect-vs-technical-architect)
 > - [Enterprise Architecture = Architecting the Enterprise? • Gregor Hohpe • YOW! 2017](https://youtu.be/hhlxFtV_tZo)
+> - [Now without vague hand waving: What is Enterprise Architecture](https://frederickvanbrabant.com/blog/2025-04-14-avoiding-vague-hand-waves-what-is-enterprise-architecture/)
 
 
 > [!definition] Définition

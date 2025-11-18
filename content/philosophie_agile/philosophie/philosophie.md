@@ -18,7 +18,7 @@ Agile ce n'est pas Scrum, ce n'est pas Kanban. Agile est simplement une déclara
 Etre Agile c’est :
 - adopter une approche itérative et incrémentale
 - menée dans un esprit collaboratif
-- pour générer un produit de [haute qualité]({{< relref "philosophie_agile/pourquoi/qualite_logicielle" >}})
+- pour générer un produit de [haute qualité]({{< relref "philosophie_agile/pourquoi/produit_haute_qualite" >}})
 - en tenant compte de l’évolution client
 
 ⇒ Tout ceci contribue à l’amélioration continue de l’équipe et donc du produit.

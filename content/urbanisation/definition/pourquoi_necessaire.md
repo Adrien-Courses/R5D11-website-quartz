@@ -29,6 +29,9 @@ Puis à terme, au bout de quelques années on se rend compte que :
 **=> L’EA sert à éviter ça : c’est la discipline qui vise à relier la stratégie de l’entreprise à ses systèmes d’information et à ses projets, pour que l’IT soit un levier du business et non un frein.**
 
 ## Rôle de l’EA : ce que ça apporte concrètement
+> [!ressource] Ressource
+> - [En complément, dans la FAQ "Qu’apporte  l’Architecture d’Entreprise ?"](https://www.urba-ea.org/larchitecture-entreprise/)
+
 Une pratique d’EA bien installée permet notamment de :
 
 - **Mieux décider**

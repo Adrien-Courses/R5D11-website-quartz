@@ -3,6 +3,14 @@ title = "Les 3Cs"
 weight = 20
 +++
 
+> [!ressource] Ressources
+> - [Essential XP: Card, Conversation, Confirmation - Ron Jeffries](https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/)
+> - [Three-C's Revisited - Ron Jeffries](https://ronjeffries.com/articles/019-01ff/3cs-revisited/)
+
+C'est en 2001, dans le livre *Extreme Programming Installed* que Jon Jeffries décrit pour la première fois le concept 3C - Card, Conversation, Confirmation 
+
+> Jeffries emphasized that the card should be succinct and not overloaded with details—the details are meant to emerge from the conversation, and the confirmation formalizes what the team will use to judge the story's completion.
+
 ![Les 3cs](ccc.png)
 
 ## En bref
