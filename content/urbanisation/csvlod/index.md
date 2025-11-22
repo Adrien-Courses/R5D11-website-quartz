@@ -40,3 +40,8 @@ Ces six types sont organisés selon deux axes :
 ![artefact](artefacts.png)
 
 ![artefact](artefacts2.png)
+
+## Modéliser
+Pour chaque artefact nous pouvons utiliser les outils suivants pour la modélisation
+
+![modelisation](modelisation.png)
