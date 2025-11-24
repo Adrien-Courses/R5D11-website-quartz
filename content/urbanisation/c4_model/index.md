@@ -6,6 +6,7 @@ weight = 60
 > [!ressource] Ressources
 > - [https://c4model.com/](https://c4model.com/)
 > - [Visualising software architecture with the C4 model - Simon Brown](https://youtu.be/x2-rSnhpw0g)
+> - [Microservices](https://c4model.com/abstractions/microservices)
 
 > [!affirmation] Affirmation
 > Représenter notre système avec différents niveau de détail
@@ -51,3 +52,14 @@ Exemples :
 - Découpage en package / namespace
 
 ![https://static.structurizr.com/workspace/76748/diagrams/Components.png](https://static.structurizr.com/workspace/76748/diagrams/Components.png)
+
+
+## C4 Model et EA
+> [!ressource] Ressource
+> - [The C4 Model in Enterprise Architecture explained](https://www.valueblue.com/blog/c4-model-in-enterprise-architecture)
+
+Objectif : *its real power lies in enhancing communication, promoting consistency, and supporting long-term growth.*
+
+- Permettre de communiquer avec toutes les partie prenantes en adaptant la granularité à l'interlocuteur
+- Permettre aux nouveaux entrants de comprendre l'architecture de l'entreprise
+- Pouvoir modéliser l'état actuel et futur
