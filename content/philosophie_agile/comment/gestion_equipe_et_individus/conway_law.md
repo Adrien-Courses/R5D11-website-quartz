@@ -6,6 +6,7 @@ weight = 40
 > [!ressource] Ressource
 > - [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html)
 > - [Conway’s Law in Team Topologies: Did you really get it?](https://medium.com/@fwynyk/conways-law-in-team-topolgies-did-you-really-get-it-69c1a4d702af)
+> - [Youtube -  The Only Unbreakable Law  (Brooks, Conway)](https://youtu.be/5IUj1EZwpJY)
 
 > [!definition] Conway's Law
 > Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure. 
